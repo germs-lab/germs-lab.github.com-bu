@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: Genomics and Environmental Research in Microbial Systems
 locale: en_US
-description: Describe your website here.
+description: Lab website for GERMS group (Adina Howe)
 logo: site-logo.png
 search: true
 url: 
@@ -32,13 +32,13 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Adina Howe
   avatar: bio-photo.jpg
   email: you@email.com
   disqus-shortname:
-  twitter: #username
+  twitter: #teeniedeenie
   facebook: #username
-  github: #username
+  github: #adina
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
