@@ -5,7 +5,7 @@ locale: en_US
 description: 
 logo: site-logo.png
 search: true
-url: 
+url: http://germs-lab.github.io/
 
 
 # Jekyll configuration
@@ -34,7 +34,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: Adina Howe
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: adina@anl.gov
   disqus-shortname:
   twitter: #teeniedeenie
   facebook: #username

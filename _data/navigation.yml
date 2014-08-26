@@ -3,14 +3,15 @@
 - title: About
   url: /about/
 
-- title: Articles
+- title: News
+  url: /news/
+
+- title: Members
   url: /articles/
 
 - title: Blog
-  url: /blog/
+  url: http://adina.github.io
 
-- title: Theme Setup
+- title: Tutorials & Methods
   url: /theme-setup/
 
-- title: Made Mistakes
-  url: http://mademistakes.com
