@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Genomics and Environmental Research in Microbial Systems
+title: Genomics & Environmental Research in Microbial Systems
 locale: en_US
-description: Lab website for GERMS group (Adina Howe)
+description: 
 logo: site-logo.png
 search: true
 url: 
