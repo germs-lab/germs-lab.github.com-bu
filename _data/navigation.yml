@@ -3,15 +3,18 @@
 - title: About
   url: /about/
 
-- title: News
-  url: /news/
+- title: Research
+  url: /research/
 
-- title: Members
-  url: /articles/
+- title: People
+  url: /people/
 
 - title: Blog
   url: http://adina.github.io
 
-- title: Tutorials & Methods
-  url: /theme-setup/
+- title: News
+  url: /news/
+
+- title: Contact
+  url: /contact/
 
