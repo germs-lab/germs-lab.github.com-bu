@@ -1,0 +1,17 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+
+- title: News
+  url: /news/
+
+- title: Members
+  url: /articles/
+
+- title: Blog
+  url: http://adina.github.io
+
+- title: Tutorials & Methods
+  url: /theme-setup/
+
