@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GERMS-associated Blogging
+title: Blog
 excerpt: "An archive of blog posts sorted by date."
 ---
 
