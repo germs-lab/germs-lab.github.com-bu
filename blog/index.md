@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog
+title: GERMS-associated Blogging
 excerpt: "An archive of blog posts sorted by date."
 ---
 
@@ -9,3 +9,6 @@ excerpt: "An archive of blog posts sorted by date."
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
 {% endfor %}
 </ul>
+
+### GERM-specific Blogging ###
+[aDiNA Blog](http://adina.github.io)
