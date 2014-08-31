@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Opportunities to Join GERMS"
+title: "Opportunities"
 date: 2014-08-30T19:05:36-05:00
 modified:
 excerpt:
