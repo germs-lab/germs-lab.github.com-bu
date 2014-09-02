@@ -1,26 +1,19 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
+title: "About"
+date: 
+modified:
+excerpt:
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature:
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+Our work focuses on integrating traditional microbiology approaches with metagenomics and computational biology as investigative tools to understand environmental microbial populations.
 
-## So Simple Theme is all about:
+Currently, our research revolves around several themes: 
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
-
-[^1]: Example: *domain.com/category-name/post-title*
+* identifying microbial drivers of biogeochemical cycling and their response to climate change 
+* understanding contributions of microbial genes, individuals, and groups to population function and dynamics 
+* detection of biomarkers for environmental health in our environment (e.g., antibiotics and pathogens) 
+* scalability of increasingly large sequencing datasets through the application of advanced computational approaches 
+* leveraging high throughput, next-generation metagenomic and metatranscriptomic sequencing to investigate interactions within environmental microbial communities
