@@ -18,4 +18,4 @@ Currently, our research revolves around several themes:
 * scalability of increasingly large sequencing datasets through the application of advanced computational approaches 
 * leveraging high throughput, next-generation metagenomic and metatranscriptomic sequencing to investigate interactions within environmental microbial communities
 
-We are a part of [Iowa State University](www.iastate.edu) and the [Agricultrual and Biosystems Engineering Department] (http://www.abe.iastate.edu).
+We are a part of [Iowa State University](http://www.iastate.edu) and the [Agricultrual and Biosystems Engineering Department] (http://www.abe.iastate.edu).
