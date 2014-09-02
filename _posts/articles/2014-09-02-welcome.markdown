@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Welcome!"
+date: 2014-09-02T09:27:28-05:00
+---
+
+Welcome to our research group and our website!  We are still developing this site so please check in from time to time for updates.
