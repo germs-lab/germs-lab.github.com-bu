@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: "People"
 date: 
 modified:
 excerpt:
@@ -8,4 +8,4 @@ image:
   feature:
 ---
 
-Ryan Williams
+Coming Soon
