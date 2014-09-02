@@ -36,7 +36,7 @@ owner:
   avatar: bio-photo.jpg
   email: germs.research@gmail.com
   disqus-shortname:
-  twitter: #teeniedeenie
+  twitter: @teeniedeenie
   facebook: #username
   github: #adina
   stackexchange: #http://stackoverflow.com/users/123456/username
@@ -46,7 +46,7 @@ owner:
   tumblr: #username
   google:
     plus: #username
-    analytics:
+    analytics:UA-39200706-2
     verify:
     ad-client:
     ad-slot: 
