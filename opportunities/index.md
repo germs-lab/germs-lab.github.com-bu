@@ -12,7 +12,9 @@ image:
 
 We take an interdisciplinary approach to understand and manage natural and engineering microbial systems.  We are interested in combining molecular approaches and biological sequencing data to study complex microbial communities.  We are also interested in sustainable scientific data/software development practices.  We are interested in working with microbiologists, computer scientists, engineers, physicists, and more.  
 
-If you are interested in joining or collaborating with our team, you should contact [Adina Howe](mailto:germs.research@gmail.com).  Currently, we are looking for candidates in all positions.
+If you are interested in joining or collaborating with our team, you should contact [Adina Howe](mailto:germs.research@gmail.com).  
+
+Currently, we are looking for candidates in all positions (postdocs, PhDs, Masters, and undergraduates).
 
 
 
