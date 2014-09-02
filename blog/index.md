@@ -10,5 +10,5 @@ excerpt: "An archive of blog posts sorted by date."
 {% endfor %}
 </ul>
 
-### GERM-specific Blogging ###
+### Other Blogs ###
 [aDiNA Blog](http://adina.github.io)

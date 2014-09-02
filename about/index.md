@@ -14,6 +14,8 @@ Currently, our research revolves around several themes:
 
 * identifying microbial drivers of biogeochemical cycling and their response to climate change 
 * understanding contributions of microbial genes, individuals, and groups to population function and dynamics 
-* detection of biomarkers for environmental health in our environment (e.g., antibiotics and pathogens) 
+* detection of biomarkers for environmental health (e.g., antibiotics and pathogens) 
 * scalability of increasingly large sequencing datasets through the application of advanced computational approaches 
 * leveraging high throughput, next-generation metagenomic and metatranscriptomic sequencing to investigate interactions within environmental microbial communities
+
+We are a part of [Iowa State University](http://www.iastate.edu) and the [Agricultrual and Biosystems Engineering Department](http://www.abe.iastate.edu).
