@@ -14,7 +14,7 @@ We take an interdisciplinary approach to understand and manage natural and engin
 
 If you are interested in joining or collaborating with our team, you should contact [Adina Howe](mailto:germs.research@gmail.com).  
 
-Currently, we are looking for candidates in all positions (postdocs, PhDs, Masters, and undergraduates).
+Currently, we are looking for candidates in all positions (postdocs, PhDs, Masters, and undergraduates).  Please send a brief cover letter telling us about your interests and a CV or resume to [GERMS](mailto:germs.research@gmail.com).  
 
 
 
