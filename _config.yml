@@ -5,7 +5,7 @@ locale: en_US
 description: GERMS Research Group Website
 logo: site-logo.jpg
 search: true
-url: http://germs-lab.github.io/
+url: http://germs-lab.github.io
 
 
 # Jekyll configuration
