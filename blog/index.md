@@ -11,5 +11,5 @@ excerpt: "An archive of blog posts sorted by date."
 </ul>
 
 ### Other Blogs ###
-[aDiNA Blog](http://adina.github.io)
-[Ryan's Blog](http://ryanw.public.iastate.edu/Ryan_J_Williams_Homepage/Home_Page.html)
+* [aDiNA Blog](http://adina.github.io)
+* [Ryan's Blog](http://ryanw.public.iastate.edu/Ryan_J_Williams_Homepage/Home_Page.html)
