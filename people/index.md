@@ -8,7 +8,7 @@ image:
   feature:
 ---
 
-<img src="howe.jpg" width="200" height="100" align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adina Howe, Assistant Professor
+<img src="howe.jpg" width="200" height="100" align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adina Howe, Assistant Professor, Iowa State University, Agricultural and Biosystems Engineering
 
 <BR><BR> 
 <BR><BR> 
