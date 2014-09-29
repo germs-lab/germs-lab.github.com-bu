@@ -1,7 +1,13 @@
 ---
 layout: post
 title: "Plans for the Lab"
-date: 2014-09-29T09:00:54-05:00
+modified:
+categories: blog
+excerpt:
+tags: []
+image:
+  feature:
+date: 2014-09-29T09:36:53-05:00
 ---
 
 *This is a repost from Adina's [blog](adina.github.io). Since it was lab-relevant, I included it here.*
