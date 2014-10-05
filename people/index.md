@@ -15,7 +15,7 @@ image:
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-031e"><img src="howe-small.jpg" alt="description here" /></th>
+    <th class="tg-031e"><img src="howe_small.jpg" alt="description here" /></th>
     <th class="tg-031e">Adina Howe<br>Assistant Professor<br> Iowa State University<br>Agricultural and Biosystems Engineering</th>
   </tr>
   <tr>
