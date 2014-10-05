@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "GERMS-ies"
+title: "The GERMS"
 date: 
 modified:
 excerpt:
