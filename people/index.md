@@ -8,83 +8,29 @@ image:
   feature:
 ---
 
-<table width="500px" height="100%" border="0">
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:20px 20px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:20px 20px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-031e"><img src="howe-small.jpg" alt="description here" /></th>
+    <th class="tg-031e">Adina Howe<br>Assistant Professor<br> Iowa State University<br>Agricultural and Biosystems Engineering</th>
+  </tr>
+  <tr>
+    <th class="tg-031e"><img src="ryan.jpg" alt="description here" /></th>
+    <th class="tg-031e">Ryan J. Williams, Postdoc</th>
+  </tr>
 <tr>
-
-<td>
-<img src="howe.jpg" alt="description here" />
-</td>
-
-<td>
-Adina Howe, Assistant Professor, Iowa State University, Agricultural and Biosystems Engineering
-</td>
-
-
-</tr>
-
-
-<table width="500px" height="100%" border="0">
-
+    <th class="tg-031e"><img src="bio.jpg" alt="description here" /></th>
+    <th class="tg-031e">Recruiting-in-progress, Postdoc</th>
+  </tr>
 <tr>
-
-<td>
-<img src="ryan.jpg" alt="description here" />
-</td>
-
-<td>
-Ryan J. Williams, Postdoc
-</td>
-
-</tr>
-
-</table>
-
-
-<table width="500px" height="100%" border="0">
-
+    <th class="tg-031e"><img src="bio.jpg" alt="description here" /></th>
+    <th class="tg-031e">Recruiting-in-progress, Graduate Student </th>
 <tr>
-
-<td>
-<img src="bio.jpg" alt="description here" />
-</td>
-
-<td>
-Recruiting-in-progress, Postdoc
-</td>
-
-</tr>
-
-</table>
-
-<table width="500px" height="100%" border="0">
-
-<tr>
-
-<td>
-<img src="bio.jpg" alt="description here" />
-</td>
-
-<td>
-Recruiting-in-progress, Graduate Student
-</td>
-
-</tr>
-
-</table>
-
-<table width="500px" height="100%" border="0">
-
-<tr>
-
-<td>
-<img src="bio.jpg" alt="description here" />
-</td>
-
-<td>
-Recruiting-in-progress, Graduate Student
-</td>
-
-</tr>
-
+    <th class="tg-031e"><img src="bio.jpg" alt="description here" /></th>
+    <th class="tg-031e">Recruiting-in-progress, Graduate Student </th>
+  </tr>
 </table>
