@@ -2,7 +2,7 @@
 layout: post
 title: "Boarding Pass to Mars"
 modified:
-categories: blog/
+categories: blog
 excerpt:
 tags: []
 image:
