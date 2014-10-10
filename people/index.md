@@ -16,7 +16,15 @@ image:
 <table class="tg">
   <tr>
     <th class="tg-031e"><img src="howe_small.jpg" alt="description here" /></th>
-    <th class="tg-031e">Adina Howe<br>Assistant Professor<br> Iowa State University<br>Agricultural and Biosystems Engineering</th>
+    <th class="tg-031e">Adina Howe<br>Assistant Professor<br> Iowa State University<br>Agricultural and Biosystems Engineering
+<script language="JavaScript">
+var username = "adina";
+var hostname = "iastate.edu";
+var linktext = username + "@" + hostname ;
+document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" + linktext + "</a>");
+</script>
+</th>
+
   </tr>
   <tr>
     <th class="tg-031e"><img src="ryan.jpg" alt="description here" /></th>
