@@ -18,3 +18,5 @@ Super fast improvement for metagenomic assembly, hope to test this soon!
 [Preprint](http://arxiv.org/abs/1409.7208)
 
 [The hype](https://twitter.com/pathogenomenick/status/515390848230760448)
+
+[A very helpful blog from Titus Brown](http://ivory.idyll.org/blog/2014-how-good-is-megahit.html)
