@@ -4,7 +4,7 @@ title: "Top 10 Reasons to Join GERMS"
 modified:
 categories: _posts/articles/
 excerpt:
-tags: []
+tags: ["adina howe", "students", "mentorship"]
 image:
   feature:
 date: 2014-09-02T14:31:22-05:00

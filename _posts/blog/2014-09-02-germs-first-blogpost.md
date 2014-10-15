@@ -4,7 +4,7 @@ title: "GERMS First Blogpost"
 modified:
 categories: blog
 excerpt:
-tags: []
+tags: ["adina howe", "blog"]
 image:
   feature:
 date: 2014-09-02T16:58:01-05:00

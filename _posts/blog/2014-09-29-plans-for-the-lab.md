@@ -4,7 +4,7 @@ title: "Plans for the Lab"
 modified:
 categories: blog
 excerpt:
-tags: []
+tags: ["adina howe", "future"]
 image:
   feature:
 date: 2014-09-29T09:36:53-05:00

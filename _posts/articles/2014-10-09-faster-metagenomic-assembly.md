@@ -4,7 +4,7 @@ title: "Faster Metagenomic Assembly?"
 modified:
 categories: articles
 excerpt:
-tags: []
+tags: ["adina howe", "metagenomic", "assembly"]
 image:
   feature:
 date: 2014-10-09T15:23:49-05:00
