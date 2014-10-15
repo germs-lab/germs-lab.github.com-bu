@@ -1,2 +1,2 @@
-### Adina Howe
+# Adina Howe
 ##GERMS Laboratory Research Website
