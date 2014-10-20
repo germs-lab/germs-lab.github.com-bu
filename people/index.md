@@ -11,7 +11,7 @@ image:
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:20px;padding:20px 20px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:20px 20px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:18px;font-weight:normal;padding:20px 20px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
 </style>
 <table class="tg">
   <tr>
@@ -28,11 +28,11 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
   </tr>
   <tr>
     <th class="tg-031e"><img src="ryan.jpg" alt="description here" /></th>
-    <th class="tg-031e">Ryan J. Williams, Postdoc</th>
+    <th class="tg-031e">Ryan J. Williams<br>Postdoc</th>
   </tr>
 <tr>
-    <th class="tg-031e"><img src="bio.jpg" alt="description here" /></th>
-    <th class="tg-031e">Recruiting-in-progress, Postdoc</th>
+    <th class="tg-031e"><img src="jin3.jpg" alt="description here" /></th>
+    <th class="tg-031e">Jinlyung Choi<br>Postdoc</th>
   </tr>
 <tr>
     <th class="tg-031e"><img src="bio.jpg" alt="description here" /></th>
