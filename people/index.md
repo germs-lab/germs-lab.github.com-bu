@@ -26,10 +26,7 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 </th>
 
   </tr>
-<tr>
-    <th class="tg-031e"><img src="Ruchi.jpg" alt="description here" /></th>
-    <th class="tg-031e">Ruchi Chaudhary<br>Postdoc</th>
-  </tr>
+
 <tr>
     <th class="tg-031e"><img src="jin3.jpg" alt="description here" /></th>
     <th class="tg-031e">Jinlyung Choi<br>Postdoc</th>
