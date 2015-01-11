@@ -8,7 +8,7 @@ image:
   feature:
 ---
 
-To contact the lab, you can email Adina Howe:
+To contact the lab, you can email Dr. Adina Howe:
 
 <script language="JavaScript">
 var username = "germs.research";
