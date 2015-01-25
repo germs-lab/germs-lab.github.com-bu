@@ -33,10 +33,10 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
   </tr>
   <tr>
     <th class="tg-031e"><img src="ryan.jpg" alt="description here" /></th>
-    <th class="tg-031e">Ryan J. Williams<br>Postdoc</th>
+    <th class="tg-031e"><a href="http://ryanjw.github.io/">Ryan J. Williams</a><br>Postdoc</th>
   </tr>
 <tr>
     <th class="tg-031e"><img src="bio.jpg" alt="description here" /></th>
-    <th class="tg-031e">Recruiting-in-progress, Graduate Student </th>
+    <th class="tg-031e">Daniel Shea, Graduate Student </th>
   </tr>
 </table>
