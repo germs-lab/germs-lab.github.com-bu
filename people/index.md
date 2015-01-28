@@ -29,11 +29,12 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 
 <tr>
     <th class="tg-031e"><img src="jin3.jpg" alt="description here" /></th>
-    <th class="tg-031e">Jinlyung Choi<br>Postdoc</th>
+     <th class="tg-031e"><a href="http://http://metajinomics.github.io/">Jinlyung Choi</a>\
+<br>Postdoc</th>>
   </tr>
   <tr>
     <th class="tg-031e"><img src="ryan.jpg" alt="description here" /></th>
-    <th class="tg-031e"><a href="http://ryanjw.github.io/">Ryan J. Williams</a><br>Postdoc</th>
+    <th class="tg-031e"><a href="http://ryanjw.github.io/">Ryan J. Williams</a><br>Postdoc</th>>
   </tr>
 <tr>
     <th class="tg-031e"><img src="bio.jpg" alt="description here" /></th>
