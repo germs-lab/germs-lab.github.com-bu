@@ -12,6 +12,9 @@ image:
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:20px;padding:20px 20px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
 .tg th{font-family:Arial, sans-serif;font-size:18px;font-weight:normal;padding:20px 20px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;} </style>
+
+
+
 <table class="tg">
   <tr>
     <th class="tg-031e"><img src="howe_small.jpg" alt="description here" /></th>
