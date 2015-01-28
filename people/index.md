@@ -14,6 +14,7 @@ image:
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:20px 20px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
 </style>
 
+
 <table class="tg">
   <tr>
     <th class="tg-031e"><img src="howe_small.jpg" alt="description here" /></th>
