@@ -39,6 +39,6 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
   
 <tr>
     <th class="tg-031e"><img src="dan2.jpg" alt="description here" /></th>
-    <th class="tg-031e">Daniel Shea, Graduate Student </th>
+    <th class="tg-031e">Daniel Shea, PhD Student </th>
   </tr>
 </table>
