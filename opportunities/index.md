@@ -16,7 +16,10 @@ If you are interested in joining GERMS as a graduate student, you should apply t
 
 Currently, we are looking for candidates in most positions (PhDs, Masters, and undergraduates).  
 
+Links to postings:
 
+* [PhD - Ipmact Carbon Cycling in Soil](http://germslab.org/articles/phd-student-wanted-impact-carbon-cyling-in-soil)
+* [PhD - Impact Water Quality](http://germslab.org/articles/phd-student-microbial-measurements-of-water-quality)
 
 
 
