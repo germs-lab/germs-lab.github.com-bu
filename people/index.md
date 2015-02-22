@@ -17,7 +17,7 @@ image:
 
 <table class="tg">
   <tr>
-    <th class="tg-031e"><img src="howe_small.jpg" alt="description here" /></th>
+    <th class="tg-031e"><img src="isu_howe.jpg" alt="description here" /></th>
     <th class="tg-031e">Adina Howe<br>Assistant Professor<br> Iowa State University<br>Agricultural and Biosystems Engineering
 <script language="JavaScript">
 var username = "adina";
@@ -42,3 +42,5 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
     <th class="tg-031e">Recruiting Currently, PhD Student </th>
   </tr>
 </table>
+
+
