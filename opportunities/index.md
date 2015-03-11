@@ -14,12 +14,4 @@ We take an interdisciplinary approach to understand and manage natural and engin
 
 If you are interested in joining GERMS as a graduate student, you should apply to the ISU graduate program in [Agricultural and Biosystems Engineering](http://www.abe.iastate.edu/prospective-students/apply-today/), [Environmental Science](http://www.ensci.iastate.edu/grad/applying.html), [Interdepartmental Microbiology Program](http://www.micro.iastate.edu/), or [Bioinformatics and Computational Biology](http://www.bcb.iastate.edu/Prospect.html#Apply).    
 
-Currently, we are looking for candidates in most positions (PhDs, Masters, and undergraduates).  
-
-Links to postings:
-
-* [PhD - Impact Carbon Cycling in Soil](http://germslab.org/articles/phd-student-wanted-impact-carbon-cyling-in-soil)
-* [PhD - Impact Water Quality](http://germslab.org/articles/phd-student-microbial-measurements-of-water-quality)
-
-
 
