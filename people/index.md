@@ -36,6 +36,17 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
     <th class="tg-031e"><img src="ryan.jpg" alt="description here" /></th>
     <th class="tg-031e"><a href="http://ryanjw.github.io/">Ryan J. Williams</a><br>Postdoc</th>
   </tr>
+
+<tr>
+    <th class="tg-031e"><img src="lab_photo_colgan_small.jpg" alt="description here" /></th>
+     <th class="tg-031e">Phil Colgan
+</a><br>PhD Student, ABE</th>
+  </tr>
+  <tr>
+    <th class="tg-031e"><img src="lab_photo_farmer_small.jpg" alt="description here" /></th>
+    <th class="tg-031e">Jared Flater
+<br>MS Student, ABE</th>
+  </tr>
   
 </table>
 
