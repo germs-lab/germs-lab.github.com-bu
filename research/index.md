@@ -11,13 +11,13 @@ image:
 
 ### Understanding environmental health and productivity:  How can we use microbial indicators to assess ecosystem services and disturbances? ###
 
-![safewater](https://github.com/germs-lab/germs-lab.github.com/blob/master/images/Kauai_Sign_Small.jpg)
+![safewater](https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/Kauai_Sign_Small.jpg)
 
 Water quality is characterized by a suite of chemical and physical measurements, as well as the usage of bioindicators, mainly the presence of microorganisms harmful to human health.  Though informative to the quality of the water, these measurements are limited in their ability to resolve and predict sources of water quality pollution.  For example, counts of colony-forming units can provide answers to how safe water is to drink or swim but do not provide identify the source of contamination. By unifying data collections of existing state-wide monitoring efforts (e.g., Iowa DNR Lake Monitoring & ISU Limnology Laboratory) and microbial community analyses, we hope to identify microbial drivers of various water functions.
 
 ### Understanding microbial drivers of ecosystem stability:  What are the drivers of pit foaming? ###
 
-![piggies](https://github.com/germs-lab/germs-lab.github.com/blob/master/images/pig_npr.JPG)
+![piggies](https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/pig_npr.JPG)
 
 We are collaborating with other investigators at Iowa State University (as well as the University of Minnesota and University of Illinois-UC) to understand the biology and chemistry that cause pit foaming in pig manure pits.  This trapped methane can presents a safety threat in barns as they can explode in the presence of a spark.  We would like to understand the mechanisms behind the foaming to reduce its volume and prevent explosions.  
 
