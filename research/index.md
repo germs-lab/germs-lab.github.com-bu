@@ -19,7 +19,7 @@ Water quality is characterized by a suite of chemical and physical measurements,
 
 ![piggies](https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/pig_npr.JPG)
 
-We are collaborating with other investigators at Iowa State University (as well as the University of Minnesota and University of Illinois-UC) to understand the biology and chemistry that cause pit foaming in pig manure pits.  This trapped methane can presents a safety threat in barns as they can explode in the presence of a spark.  We would like to understand the mechanisms behind the foaming to reduce its volume and prevent explosions.  
+We are collaborating with other investigators at Iowa State University (as well as the University of Minnesota and University of Illinois-UC) to understand the biology and chemistry that cause pit foaming in pig manure pits.  This trapped methane can present a safety threat in barns as they can explode in the presence of a spark.  We would like to understand the mechanisms behind the foaming to reduce its volume and prevent explosions.  
 
 ### Understanding ecosystem services:  What are the microbial drivers of carbon cycling? ###
 
