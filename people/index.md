@@ -39,7 +39,7 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 
   <tr>
     <th class="tg-031e"><img src="fan-1.jpg" alt="description here" /></th>
-    <th class="tg-031e"><a href="http://fandemonium.github.io/">Fan Yang</a>\
+    <th class="tg-031e"><a href="http://fandemonium.github.io/">Fan Yang</a>
 <br>Postdoc</th>
   </tr>
 
