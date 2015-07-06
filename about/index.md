@@ -20,4 +20,4 @@ Currently, our research revolves around several themes:
 
 We are a part of [Iowa State University](http://www.iastate.edu) and the [Agricultural and Biosystems Engineering Department](http://www.abe.iastate.edu).  We are also affiliated with ISU [Environmental Science](http://www.ensci.iastate.edu), [Interdepartmental Microbiology Program](http://www.micro.iastate.edu/), and [Bioinformatics and Computational Biology](http://www.bcb.iastate.edu).
 
-We are currently supported by the U.S. Department of Energy, Office of Science, Office of Biolgoical and Environmental Research (BER); Black and Veatch Building a World of Difference Faculty Fellowship; the University of Iowa Center for Health Effect of Environmental Contamination; and the Iowa Pork Producers Association.
+We are currently supported by the U.S. Department of Energy, Office of Science, Office of Biological and Environmental Research (BER); Black and Veatch Building a World of Difference Faculty Fellowship; the University of Iowa Center for Health Effect of Environmental Contamination; and the Iowa Pork Producers Association.
