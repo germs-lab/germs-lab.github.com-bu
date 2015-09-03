@@ -58,7 +58,9 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 </table>
 
 
-<p><b>GERMS Visiting Scholars</b></p>
+<br>
+<br>
+<p><b>GERMS Friends (Past Visiting Scholars)</b></p>
 
 
 <table class="tg">
@@ -68,11 +70,11 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
   </tr>
 
 <tr>
-    <th class="tg-031e"><img src="bio2.jpg" alt="description here" /></th>
+    <th class="tg-031e"><img src="bio.jpg" alt="description here" /></th>
      <th class="tg-031e">Minjoo Lee<br>Yonsei University</th>
   </tr>
   <tr>
-    <th class="tg-031e"><img src="bio2.jpg" alt="description here" /></th>
+    <th class="tg-031e"><img src="bio.jpg" alt="description here" /></th>
     <th class="tg-031e">Hyunji Yoo<br>Yonsei University</th>
   </tr>
 
