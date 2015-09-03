@@ -7,7 +7,6 @@ excerpt:
 image:
   feature:
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:20px 20px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
@@ -40,8 +39,11 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
   <tr>
     <th class="tg-031e"><img src="fan-1.jpg" alt="description here" /></th>
     <th class="tg-031e"><a href="http://fandemonium.github.io/">Fan Yang</a>
-<br>Postdoc</th>
-  </tr>
+<br>Postdoc
+<br>Interests:  how microorganisms contribute to our daily lives; natural and engineered systems
+<br> Hobbies:  nature and outdoor sports, photography, playing guitar, and eating good food (om nom nom)
+  </th>
+</tr>
 
 
 <tr>
@@ -52,9 +54,13 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
   <tr>
     <th class="tg-031e"><img src="lab_photo_farmer_small.jpg" alt="description here" /></th>
     <th class="tg-031e">Jared Flater
-<br>MS Student, ABE</th>
+<br>MS Student, ABE
+<br>Interests:  our natural resources; agroecosystems; data driven science
+<br>Hobbies:  Spending time outside by playing disc golf or biking along Ames' great trail system
+</th>
+
   </tr>
-  
+
 </table>
 
 
@@ -79,4 +85,3 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
   </tr>
 
 </table>
-
