@@ -58,3 +58,23 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 </table>
 
 
+<p><b>GERMS Visiting Scholars</b></p>
+
+
+<table class="tg">
+  <tr>
+    <th class="tg-031e"><img src="tomas.png" alt="description here" /></th>
+    <th class="tg-031e">Tomas Vetrovsky<br>Academy of Sciences of the Czech Republic</th>
+  </tr>
+
+<tr>
+    <th class="tg-031e"><img src="bio2.jpg" alt="description here" /></th>
+     <th class="tg-031e">Minjoo Lee<br>Yonsei University</th>
+  </tr>
+  <tr>
+    <th class="tg-031e"><img src="bio2.jpg" alt="description here" /></th>
+    <th class="tg-031e">Hyunji Yoo<br>Yonsei University</th>
+  </tr>
+
+</table>
+
