@@ -34,9 +34,9 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
   <tr>
     <th class="tg-031e"><img src="ryan.jpg" alt="description here" /></th>
     <th class="tg-031e"><a href="http://ryanjw.github.io/">Ryan J. Williams</a><br>Postdoc
-<p align="left">Interests: microbe-ecosystem interactions, microbial community assemblages, ecological theory and modeling
+<p align="left">Interests: interactions in ecosystems; ecological theory and modelling
 <br>
-<br>Hobbies:  home brewing, touring breweries and restaurants by bike, running and lots of other sports</p>
+<br>Hobbies:  home brewing, running, and lots of other sports</p>
 </th>
   </tr>
 
@@ -44,7 +44,7 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
     <th class="tg-031e"><img src="fan-1.jpg" alt="description here" /></th>
     <th class="tg-031e"><a href="http://fandemonium.github.io/">Fan Yang</a>
 <br>Postdoc
-<p align="left">Interests:  how microorganisms contribute to our daily lives; natural and engineered systems
+<p align="left">Interests:  how microorganisms contribute to our daily lives in natural and engineered systems
 <br>
 <br>Hobbies:  nature and outdoor sports, photography, playing guitar, and eating good food (om nom nom)</p>
   </th>
@@ -55,9 +55,9 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
     <th class="tg-031e"><img src="lab_photo_colgan_small.jpg" alt="description here" /></th>
      <th class="tg-031e">Phil Colgan
 </a><br>PhD Student, ABE
-<p align="left">Interests: Sustainable energy and agriculture, synthetic biology, novel microbial biosynthetic capacity, directed protein evolution, biosensing, education and training
+<p align="left">Interests: sustainable energy and agriculture, synthetic biology, biosensing, education and training
 <br>
-<br>Hobbies: Disc golfing, hiking, craft brews, playing musical instruments, wire wrapping</p></th>
+<br>Hobbies: disc golfing, hiking, craft brews, playing musical instruments, wire wrapping</p></th>
 </th>
   </tr>
   <tr>
