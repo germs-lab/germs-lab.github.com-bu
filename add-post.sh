@@ -1,1 +1,1 @@
-octopress new post "GERMS defined" --dir blog/
+octopress new post "GERMS defined" --dir blog
