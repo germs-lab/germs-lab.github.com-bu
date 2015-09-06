@@ -33,7 +33,10 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
   </tr>
   <tr>
     <th class="tg-031e"><img src="ryan.jpg" alt="description here" /></th>
-    <th class="tg-031e"><a href="http://ryanjw.github.io/">Ryan J. Williams</a><br>Postdoc</th>
+    <th class="tg-031e"><a href="http://ryanjw.github.io/">Ryan J. Williams</a><br>Postdoc
+<br>Interests: microbe-ecosystem interactions, microbial community assemblages, ecological theory and modeling
+<br>Hobbies:  home brewing, touring breweries and restaurants by bike, running and lots of other sports   
+</th>
   </tr>
 
   <tr>
@@ -49,7 +52,10 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 <tr>
     <th class="tg-031e"><img src="lab_photo_colgan_small.jpg" alt="description here" /></th>
      <th class="tg-031e">Phil Colgan
-</a><br>PhD Student, ABE</th>
+</a><br>PhD Student, ABE
+<br>Interests: Sustainable energy and agriculture, synthetic biology, novel microbial biosynthetic capacity, directed protein evolution, biosensing, education and training
+<br>Hobbies: Disc golfing, hiking, craft brews, playing musical instruments, wire wrapping</th>
+</th>
   </tr>
   <tr>
     <th class="tg-031e"><img src="lab_photo_farmer_small.jpg" alt="description here" /></th>
