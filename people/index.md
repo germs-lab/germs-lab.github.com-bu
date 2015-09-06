@@ -35,6 +35,7 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
     <th class="tg-031e"><img src="ryan.jpg" alt="description here" /></th>
     <th class="tg-031e"><a href="http://ryanjw.github.io/">Ryan J. Williams</a><br>Postdoc
 <p align="left">Interests: microbe-ecosystem interactions, microbial community assemblages, ecological theory and modeling
+<br>
 <br>Hobbies:  home brewing, touring breweries and restaurants by bike, running and lots of other sports</p>
 </th>
   </tr>
@@ -44,6 +45,7 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
     <th class="tg-031e"><a href="http://fandemonium.github.io/">Fan Yang</a>
 <br>Postdoc
 <p align="left">Interests:  how microorganisms contribute to our daily lives; natural and engineered systems
+<br>
 <br>Hobbies:  nature and outdoor sports, photography, playing guitar, and eating good food (om nom nom)</p>
   </th>
 </tr>
@@ -54,6 +56,7 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
      <th class="tg-031e">Phil Colgan
 </a><br>PhD Student, ABE
 <p align="left">Interests: Sustainable energy and agriculture, synthetic biology, novel microbial biosynthetic capacity, directed protein evolution, biosensing, education and training
+<br>
 <br>Hobbies: Disc golfing, hiking, craft brews, playing musical instruments, wire wrapping</p></th>
 </th>
   </tr>
@@ -62,6 +65,7 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
     <th class="tg-031e">Jared Flater
 <br>MS Student, ABE
 <p align="left">Interests:  our natural resources; agroecosystems; data driven science
+<br>
 <br>Hobbies:  Spending time outside by playing disc golf or biking along Ames' great trail system</p>
 </th>
 
