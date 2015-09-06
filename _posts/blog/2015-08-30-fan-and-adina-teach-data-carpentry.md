@@ -2,7 +2,7 @@
 layout: post
 title: "Fan and Adina Teach Data Carpentry"
 modified:
-categories: blog/
+categories: blog
 excerpt:
 tags: [training]
 image:

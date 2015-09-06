@@ -2,7 +2,7 @@
 layout: post
 title: "Website Updated"
 modified:
-categories: blog/
+categories: blog
 excerpt:
 tags: []
 image:

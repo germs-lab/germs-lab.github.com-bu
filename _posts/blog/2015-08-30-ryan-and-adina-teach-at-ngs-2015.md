@@ -2,7 +2,7 @@
 layout: post
 title: "Ryan and Adina Teach at NGS 2015"
 modified:
-categories: blog/
+categories: blog
 excerpt:
 tags: [training]
 image:
