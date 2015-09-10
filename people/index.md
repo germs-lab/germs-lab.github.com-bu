@@ -86,11 +86,11 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
   </tr>
 
 <tr>
-    <th class="tg-031e"><img src="bio.jpg" alt="description here" /></th>
+    <th class="tg-031e"><img src="minjoo.gif" alt="description here" /></th>
      <th class="tg-031e">Minjoo Lee<br>Yonsei University</th>
   </tr>
   <tr>
-    <th class="tg-031e"><img src="bio.jpg" alt="description here" /></th>
+    <th class="tg-031e"><img src="hyunji.gif" alt="description here" /></th>
     <th class="tg-031e">Hyunji Yoo<br>Yonsei University</th>
   </tr>
 
