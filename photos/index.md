@@ -6,7 +6,7 @@ title: GERMS Photo Gallery
 	<a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/care0.gif"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/care0.gif" alt="image"></a>
 	<a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/care1.gif"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/care1.gif" alt="image"></a>
 	<a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/care2.gif"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/care2.gif" alt="image"></a>
-		<a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/care3.gif"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/care33.gif" alt="image"></a>
+		<a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/care3.gif"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/care3.gif" alt="image"></a>
 	<figcaption>GERMS+ Volunteering for United Way Day of Caring Fall, 2015.</figcaption>
 </figure>
 
