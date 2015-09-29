@@ -29,7 +29,11 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 
 <tr>
     <th class="tg-031e"><img src="jin3.jpg" alt="description here" /></th>
-     <th class="tg-031e"><a href="http://metajinomics.github.io/">Jinlyung Choi</a><br>Postdoc</th>
+     <th class="tg-031e"><a href="http://metajinomics.github.io/">Jinlyung Choi</a><br>Postdoc
+<p align="left">Interests: functional metagenomics, metatranscriptomics; computational biology; reproducible research; data science and training
+<br>
+<br>Hobbies: web design, sounds engineering, biking, hiking
+</th>
   </tr>
   <tr>
     <th class="tg-031e"><img src="ryan.jpg" alt="description here" /></th>
