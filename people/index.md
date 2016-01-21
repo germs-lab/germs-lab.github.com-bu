@@ -35,14 +35,6 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 <br>Hobbies: web design, sounds engineering, biking, hiking</p>
 </th>
   </tr>
-  <tr>
-    <th class="tg-031e"><img src="ryan.jpg" alt="description here" /></th>
-    <th class="tg-031e"><a href="http://ryanjw.github.io/">Ryan J. Williams</a><br>Postdoc
-<p align="left">Interests: interactions in ecosystems; ecological theory and modelling
-<br>
-<br>Hobbies:  home brewing, running, and lots of other sports</p>
-</th>
-  </tr>
 
   <tr>
     <th class="tg-031e"><img src="fan-1.jpg" alt="description here" /></th>
