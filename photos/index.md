@@ -3,6 +3,11 @@ layout: page
 title: GERMS Photo Gallery
 ---
 <figure class="third">
+        <a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/germs_v0.jpg"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/germs_v0.jpg" alt="image"></a>
+        <figcaption>GERMS version 0.0 on our one year birthday at ISU, 2015.</figcaption>
+</figure>
+
+<figure class="third">
 	<a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/care0.gif"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/care0.gif" alt="image"></a>
 	<a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/care1.gif"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/care1.gif" alt="image"></a>
 	<a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/care2.gif"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/care2.gif" alt="image"></a>
