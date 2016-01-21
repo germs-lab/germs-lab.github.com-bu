@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Research"
-date: 
+date:
 modified:
 excerpt:
 image:
@@ -9,11 +9,14 @@ image:
 ---
 ## On-going research projects ##
 
-### Understanding environmental health and productivity:  How can we use microbial indicators to assess ecosystem services and disturbances? ###
+### Improved detection and quantification of antibiotic resistant genes and organisms in the environmental
 
-![safewater](https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/Kauai_Sign_Small.jpg)
+![darte](https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/darte.JPG))
 
-Water quality is characterized by a suite of chemical and physical measurements, as well as the usage of bioindicators, mainly the presence of microorganisms harmful to human health.  Though informative to the quality of the water, these measurements are limited in their ability to resolve and predict sources of water quality pollution.  For example, counts of colony-forming units can provide answers to how safe water is to drink or swim but do not provide identify the source of contamination. By unifying data collections of existing state-wide monitoring efforts (e.g., Iowa DNR Lake Monitoring & ISU Limnology Laboratory) and microbial community analyses, we hope to identify microbial drivers of various water functions and ecosystem health (e.g., nutrient cycling, pathogens, non-point sources of pollution).
+The global spread of antimicrobial-resistant (AMR) organisms and spread of AMR-associated genes poses a serious threat to the safety of our food and public health while being responsible for increased hospitalization and mortality of both humans and production animals.  The release of AMR genes and organisms and microbes in the environment from agricultural sources is considered a serious threat but little is known about their persistence and spread in the environment.  Current risk assessment models cannot adequately characterize and quantify the proliferation of resistance.  We are developing a sequence-based approach that will provide considerably improved detection and quantification of antibiotic resistant genes including greater breadth in the numbers of genes that can be detected, the identify of microorganisms carrying these genes, and the likely association of these genes with transfer mechanisms (Diversity of Antibiotic Resistance Genes and Transfer Elements - Quantitative Monitoring, DARTE-QM).  By demonstrating this approach in both laboratory model systems and the field, we hope to identify critical control points that may be sensitive to mitigation of emergence, spread, and persistence of resistance in the environment.   Synergistic with this effort, we also are studying the occurrence and transport of antibiotics, antibiotic-resistant bacteria (ARB), and antibiotic resistance genes (ARG) in tile-drained agricultural fields that receive manure application.  We will determine the effect of manure application timing, tillage, and patterns of rainfall/drainage on the persistence and losses of antibiotics, ARB, and ARG in soil and drainage water and determine the effects of alternative manure treatment and storage on the persistence of antibiotics, ARB, and ARG in manure.
+
+This effort is a fantastic collaboration with Iowa State University ([Michelle Soupir](http://www.public.iastate.edu/~msoupir/)), the USDA ([Heather Allen](http://www.ars.usda.gov/pandp/people/people.htm?personid=44876)) and [Tom Moorman](http://www.ars.usda.gov/pandp/people/people.htm?personid=3940)), and Grinnell College ([Shannon Hinsa](https://www.grinnell.edu/users/hinsa)).
+
 
 ### Understanding microbial drivers of ecosystem stability:  What are the drivers of pit foaming? ###
 
@@ -25,11 +28,18 @@ We are collaborating with other investigators at Iowa State University (as well 
 
 ![COBS site](https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/cobs.jpg)
 
-Soils represent the most challenging ecosystem for microbial studies because of its extraordinary high diversity and structural complexity.  Similar to their role in our gut systems, microbial communities drive carbon cycling in the soil. To enable the usage of omic-based approaches and overcome the complexity of the soil, our research leverages “experimentally partitioned” soils comprised of sieved soil aggregates of varying sizes. The experimental separation of the physical soil structure into its constituent aggregates both reduces the complexity of the soil system and provides a scale that is consistent with microbiology and tractable to target microbial processes. 
+Soils represent the most challenging ecosystem for microbial studies because of its extraordinary high diversity and structural complexity.  Similar to their role in our gut systems, microbial communities drive carbon cycling in the soil. To enable the usage of omic-based approaches and overcome the complexity of the soil, our research leverages “experimentally partitioned” soils comprised of sieved soil aggregates of varying sizes. The experimental separation of the physical soil structure into its constituent aggregates both reduces the complexity of the soil system and provides a scale that is consistent with microbiology and tractable to target microbial processes.
+
+
+### Understanding environmental health and productivity:  How can we use microbial indicators to assess ecosystem services and disturbances? ###
+
+![safewater](https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/Kauai_Sign_Small.jpg)
+
+Water quality is characterized by a suite of chemical and physical measurements, as well as the usage of bioindicators, mainly the presence of microorganisms harmful to human health.  Though informative to the quality of the water, these measurements are limited in their ability to resolve and predict sources of water quality pollution.  For example, counts of colony-forming units can provide answers to how safe water is to drink or swim but do not provide identify the source of contamination. By unifying data collections of existing state-wide monitoring efforts (e.g., Iowa DNR Lake Monitoring & ISU Limnology Laboratory) and microbial community analyses, we hope to identify microbial drivers of various water functions and ecosystem health (e.g., nutrient cycling, pathogens, non-point sources of pollution).
 
 ## Other Research Projects ##
 
-### Enabling computational methods:  How can we access biodiversity in complex systems at the field-scale with available technologies? ### 
+### Enabling computational methods:  How can we access biodiversity in complex systems at the field-scale with available technologies? ###
 
 ![Puzzle](https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/puzzle.jpg)
 
@@ -46,5 +56,3 @@ There has been a growing appreciation of the fact that the human body is a micro
 * [Howe Research Statement (Spring 2014)](./research.pdf)
 * [Howe Teaching Statement (Spring 2014)](./teaching.pdf)
 * [Howe CV (September 2015)](./cv.pdf) (contains links to all publications)
-
-
