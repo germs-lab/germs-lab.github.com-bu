@@ -80,6 +80,18 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 
 <br>
 <br>
+
+<p><b>Past GERMS and Old Friends </b></p>
+
+<table class="tg">
+  <tr>
+    <th class="tg-031e"><img src="ryan.jpg" alt="description here" /></th>
+    <th class="tg-031e"><a href="http://ryanjw.github.io/">Ryan J. Williams</a><br>Monsanto, San Diego, CA
+</th>
+  </tr>
+</table>
+
+
 <p><b>GERMS Friends (Past Visiting Scholars)</b></p>
 
 
