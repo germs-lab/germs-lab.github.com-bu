@@ -36,6 +36,16 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 </th>
   </tr>
 
+<tr>
+    <th class="tg-031e"><img src="nicole.gif" alt="description here" /></th>
+    <th class="tg-031e">Nicole Ricker</a>
+<br>Postdoc
+<p align="left">Interests:  mobile genetic elements; environmental science 
+<br>
+<br>Hobbies:  </p>
+  </th>
+</tr>
+
   <tr>
     <th class="tg-031e"><img src="fan-1.jpg" alt="description here" /></th>
     <th class="tg-031e"><a href="http://fandemonium.github.io/">Fan Yang</a>
