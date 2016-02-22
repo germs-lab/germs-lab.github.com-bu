@@ -42,7 +42,8 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 <br>Postdoc
 <p align="left">Interests:  mobile genetic elements; environmental science 
 <br>
-<br>Hobbies:  </p>
+<br>Hobbies:  music (guitar, cello), cycling, tennis, badminton, watching hockey and enjoying Belgian beer/chocolate
+  </p>
   </th>
 </tr>
 
