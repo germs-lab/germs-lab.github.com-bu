@@ -94,6 +94,13 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
   </tr>
 </table>
 
+<p><b>GERMS Infections (Current Collaborators)</b></p>
+
+<table class="tg">
+  <tr>
+    <th class="tg-031e"><img src="darte.jpg" alt="description here" /></th>
+    <th class="tg-031e">Shannon Hinsa (Grinnell); Heather Allen (USDA-ARS); Tom Moorman (USDA-ARS); Michelle Soupir (ISU) <br></th>
+  </tr>
 
 <p><b>GERMS Friends (Past Visiting Scholars)</b></p>
 
