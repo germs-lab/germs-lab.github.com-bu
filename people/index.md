@@ -78,7 +78,6 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 
   </tr>
 
-</table>
 
 
 <br>
