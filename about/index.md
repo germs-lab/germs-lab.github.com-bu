@@ -17,7 +17,7 @@ To monitor, evaluate, and manage our microbial partners and their services.  Mor
 * To *identify* the microbial *drivers* responding to global change in complex environments (e.g., soils, waters, gut)
 * To *predict and model* the *impacts* of microbial responses on ecosystem health and services
 
-#GERMS Research
+# GERMS Research
 Our work focuses on integrating traditional microbiology approaches with metagenomics and computational biology as investigative tools to understand environmental microbial populations.
 
 Currently, our research revolves around several themes:
