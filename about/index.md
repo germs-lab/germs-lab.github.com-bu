@@ -7,10 +7,10 @@ excerpt:
 image:
   feature:
 ---
-#GERMS Mission
+# GERMS Mission
 We are changing the environment that we live in.  To preserve our environmental integrity, we must understand and manage the impacts of global change.  Scientific research must inform our decisions and policy.  Therefore, we will develop and employ innovative scientific methods to evaluate and understand our complex and changing world.
 
-#GERMS Vision
+# GERMS Vision
 To monitor, evaluate, and manage our microbial partners and their services.  More specificially, our vision is:
 
 * To provide *scalable, quantitative tools* to *monitor* microbial responses in complex environments  
@@ -22,7 +22,7 @@ Our work focuses on integrating traditional microbiology approaches with metagen
 
 Currently, our research revolves around several themes:
 
-* identifying microbial drivers of biogeochemical cycling and their response to climate change 
+* identifying microbial drivers of biogeochemical cycling and their response to climate change
 * understanding contributions of microbial genes, individuals, and groups to population function and dynamics
 * detection of biomarkers for environmental health (e.g., antibiotics and pathogens)
 * scalability of increasingly large sequencing datasets through the application of advanced computational approaches
