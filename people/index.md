@@ -89,11 +89,6 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 
   </tr>
 
-
-
-<br>
-<br>
-
 </table>
 
 <p><b>GERMS Infections (Current Collaborators)</b></p>
