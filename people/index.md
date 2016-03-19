@@ -73,10 +73,7 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
     <th class="tg-031e">Shane Dooley
 <br>PhD Student, BCB
 <p align="left">
-<br>
-<br>
 </th>
-
   </tr>
 
 
