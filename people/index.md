@@ -59,7 +59,7 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 
 
 <tr>
-    <th class="tg-031e"><img src="lab_photo_colgan_small.jpg" alt="description here" /></th>
+    <th class="tg-031e"><img src="phil.gif" alt="description here" /></th>
      <th class="tg-031e">Phil Colgan
 </a><br>PhD Student, ABE
 <p align="left">Interests: sustainable energy and agriculture, synthetic biology, biosensing, education and training
@@ -67,6 +67,20 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 <br>Hobbies: disc golfing, hiking, craft brews, playing musical instruments, wire wrapping</p></th>
 </th>
   </tr>
+
+  <tr>
+    <th class="tg-031e"><img src="shane.gif" alt="description here" /></th>
+    <th class="tg-031e">Shane Dooley
+<br>PhD Student, BCB
+<p align="left">
+<br>
+<br>
+</th>
+
+  </tr>
+
+
+
   <tr>
     <th class="tg-031e"><img src="lab_photo_farmer_small.jpg" alt="description here" /></th>
     <th class="tg-031e">Jared Flater
