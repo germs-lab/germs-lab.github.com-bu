@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "The GERMS"
-date: 
+date:
 modified:
 excerpt:
 image:
@@ -16,7 +16,7 @@ image:
 <table class="tg">
 <tr>
 <th class="tg-031e"><img src="isu_howe.jpg" alt="description here" /></th>
-<th class="tg-031e">Adina Howe<br>Assistant Professor<br> Iowa State University<br>Agricultural and Biosystems Engineering
+<th class="tg-031e">Adina Howe, PI<br>Assistant Professor<br> Iowa State University<br>Agricultural and Biosystems Engineering
 <script language="JavaScript">
 var username = "adina";
 var hostname = "iastate.edu";
@@ -28,7 +28,7 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 
 <tr>
 <th class="tg-031e"><img src="jin3.jpg" alt="description here" /></th>
-<th class="tg-031e"><a href="http://metajinomics.github.io/">Jinlyung Choi</a><br>Postdoc
+<th class="tg-031e"><a href="http://metajinomics.github.io/">Jinlyung Choi</a>, PhD<br>Postdoc
 <p align="left">Interests: functional metagenomics, metatranscriptomics; computational biology; reproducible research; data science and training
 <br>
 <br>Hobbies: web design, sounds engineering, biking, hiking</p>
@@ -37,9 +37,9 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 
 <tr>
 <th class="tg-031e"><img src="nicole.gif" alt="description here" /></th>
-<th class="tg-031e">Nicole Ricker</a>
+<th class="tg-031e">Nicole Ricker, PhD</a>
 <br>Postdoc
-<p align="left">Interests:  mobile genetic elements; environmental science 
+<p align="left">Interests:  mobile genetic elements; environmental science
 <br>
 <br>Hobbies:  music (guitar, cello), cycling, tennis, badminton, watching hockey and enjoying Belgian beer/chocolate
 </p>
@@ -48,7 +48,7 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 
 <tr>
 <th class="tg-031e"><img src="fan-1.jpg" alt="description here" /></th>
-<th class="tg-031e"><a href="http://fandemonium.github.io/">Fan Yang</a>
+<th class="tg-031e"><a href="http://fandemonium.github.io/">Fan Yang</a>, PhD
 <br>Postdoc
 <p align="left">Interests:  how microorganisms contribute to our daily lives in natural and engineered systems
 <br>
@@ -101,7 +101,7 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 <table class="tg">
   <tr>
     <th class="tg-031e"><img src="ryan.jpg" alt="description here" /></th>
-    <th class="tg-031e"><a href="http://ryanjw.github.io/">Ryan J. Williams</a><br>Monsanto, San Diego, CA
+    <th class="tg-031e"><a href="http://ryanjw.github.io/">Ryan J. Williams</a>, PhD<br>Monsanto, San Diego, CA
 </th>
   </tr>
 </table>
