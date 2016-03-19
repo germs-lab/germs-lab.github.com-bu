@@ -101,7 +101,8 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 <table class="tg">
   <tr>
     <th class="tg-031e"><img src="ryan.jpg" alt="description here" /></th>
-    <th class="tg-031e"><a href="http://ryanjw.github.io/">Ryan J. Williams</a>, PhD<br>Monsanto, San Diego, CA
+    <th class="tg-031e"><a href="http://ryanjw.github.io/">Ryan J. Williams</a>, PhD<br>Monsanto, San Diego, CA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 </th>
   </tr>
 </table>
@@ -112,7 +113,7 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 <table class="tg">
   <tr>
     <th class="tg-031e"><img src="tomas.png" alt="description here" /></th>
-    <th class="tg-031e">Tomas Vetrovsky<br>Academy of Sciences of the Czech Republic</th>
+    <th class="tg-031e">Tomas Vetrovsky<br>Academy of Sciences of the Czech Republic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
   </tr>
 
 <tr>
