@@ -23,7 +23,8 @@ title: GERMS Photo Gallery
         <a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/rand2.jpg"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/rand2.jpg" alt="image"></a>
         <a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/rand3.jpg"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/rand3.jpg" alt="image"></a>
         <a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/rand4.jpg"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/rand4.jpg" alt="image"></a>                
-        <a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/rand5.jpg"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/rand5.jpg"                <a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/rand6.jpg"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/rand6.jpg"
+        <a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/rand5.jpg"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/rand5.jpg" alt="image"></a>
+        <a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/rand6.jpg"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/rand6.jpg" alt="image"></a>               
         <figcaption>Random shots from Year 1, 2015.</figcaption>
 </figure>
 
