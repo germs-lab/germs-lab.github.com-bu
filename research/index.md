@@ -53,6 +53,7 @@ There has been a growing appreciation of the fact that the human body is a micro
 
 ## More Information ##
 * [Publications](https://scholar.google.com/citations?user=ixR8YE8AAAAJ&hl=en)
+* [Digital Repository](http://works.bepress.com/adina/) - though we try VERY hard to publish with open access, this link will provide access to articles that may be difficult to obtain without a paywall.
 * [Howe Research Statement (Spring 2014)](./research.pdf)
 * [Howe Teaching Statement (Spring 2014)](./teaching.pdf)
 * [Howe CV (September 2015)](./cv.pdf) (contains links to all publications)
