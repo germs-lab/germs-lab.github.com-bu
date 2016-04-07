@@ -1,11 +1,155 @@
 [
 	
 		{
+		  "title"      : "GERMS Is One!",
+		  "category"   : "",
+      "tags"       : "GERMS, review, and team",
+		  "url"        : "http://germslab.org/blog/germs-is-one/",
+		  "date"       : "2016-03-14 18:02:55 +0000",
+		  "shortdate"  : "March 14, 2016"
+		} ,
+	
+		{
+		  "title"      : "Ryan Williams accepts position at Monsanto",
+		  "category"   : "",
+      "tags"       : "bitter sweet goodbyes",
+		  "url"        : "http://germslab.org/blog/ryan/",
+		  "date"       : "2016-01-21 21:03:25 +0000",
+		  "shortdate"  : "January 21, 2016"
+		} ,
+	
+		{
+		  "title"      : "National Pork Board funds GERMS research on manure management and antibiotic resistance",
+		  "category"   : "",
+      "tags"       : "funding and team",
+		  "url"        : "http://germslab.org/blog/npb/",
+		  "date"       : "2016-01-21 20:58:19 +0000",
+		  "shortdate"  : "January 21, 2016"
+		} ,
+	
+		{
+		  "title"      : "USDA awards GERMS Lab+ opportunity to develop DARTE-QM",
+		  "category"   : "",
+      "tags"       : "funding, team, and pride",
+		  "url"        : "http://germslab.org/blog/darte/",
+		  "date"       : "2016-01-21 20:54:47 +0000",
+		  "shortdate"  : "January 21, 2016"
+		} ,
+	
+		{
+		  "title"      : "Phil Colgan Receives ISU Award",
+		  "category"   : "",
+      "tags"       : "team and pride",
+		  "url"        : "http://germslab.org/blog/phil-colgan-receives-isu-award/",
+		  "date"       : "2015-09-03 22:59:09 +0100",
+		  "shortdate"  : "September 03, 2015"
+		} ,
+	
+		{
+		  "title"      : "Fan and Adina Teach Data Carpentry",
+		  "category"   : "",
+      "tags"       : "training",
+		  "url"        : "http://germslab.org/blog/fan-and-adina-teach-data-carpentry/",
+		  "date"       : "2015-08-30 23:02:11 +0100",
+		  "shortdate"  : "August 30, 2015"
+		} ,
+	
+		{
+		  "title"      : "Ryan and Adina Teach at NGS 2015",
+		  "category"   : "",
+      "tags"       : "training",
+		  "url"        : "http://germslab.org/blog/ryan-and-adina-teach-at-ngs-2015/",
+		  "date"       : "2015-08-30 22:56:02 +0100",
+		  "shortdate"  : "August 30, 2015"
+		} ,
+	
+		{
+		  "title"      : "Website Updated",
+		  "category"   : "",
+      "tags"       : "",
+		  "url"        : "http://germslab.org/blog/website-updated/",
+		  "date"       : "2015-06-23 19:56:46 +0100",
+		  "shortdate"  : "June 23, 2015"
+		} ,
+	
+		{
+		  "title"      : "GERMS Infection: Tomas Vetrovsky (Czech Academy of Sciences)",
+		  "category"   : "",
+      "tags"       : "friend, collaborators, and fungi",
+		  "url"        : "http://germslab.org/blog/germs-infection-tomas-vetrovsky-czech-academy-of-sciences/",
+		  "date"       : "2015-04-11 17:18:08 +0100",
+		  "shortdate"  : "April 11, 2015"
+		} ,
+	
+		{
+		  "title"      : "In the ISU News",
+		  "category"   : "",
+      "tags"       : "isu, news, and press",
+		  "url"        : "http://germslab.org/articles/in-the-isu-news/",
+		  "date"       : "2015-02-19 14:24:43 +0000",
+		  "shortdate"  : "February 19, 2015"
+		} ,
+	
+		{
+		  "title"      : "Got Algae?",
+		  "category"   : "",
+      "tags"       : "industry, algae, and fieldtrips",
+		  "url"        : "http://germslab.org/blog/got-algae/",
+		  "date"       : "2015-02-14 03:31:47 +0000",
+		  "shortdate"  : "February 14, 2015"
+		} ,
+	
+		{
+		  "title"      : "GERMS Research Presentation to ENVSCI690",
+		  "category"   : "",
+      "tags"       : "class, teaching, and research",
+		  "url"        : "http://germslab.org/articles/germs-research-presentation-to-envsci690/",
+		  "date"       : "2015-02-09 19:49:23 +0000",
+		  "shortdate"  : "February 09, 2015"
+		} ,
+	
+		{
+		  "title"      : "PhD Student Wanted: Impact Carbon Cyling in Soil",
+		  "category"   : "",
+      "tags"       : "phd and opportunities",
+		  "url"        : "http://germslab.org/articles/phd-student-wanted-impact-carbon-cyling-in-soil/",
+		  "date"       : "2015-02-08 04:52:47 +0000",
+		  "shortdate"  : "February 08, 2015"
+		} ,
+	
+		{
+		  "title"      : "PhD Student Wanted:  Impact Water Quality",
+		  "category"   : "",
+      "tags"       : "phd and opportunities",
+		  "url"        : "http://germslab.org/articles/phd-student-microbial-measurements-of-water-quality/",
+		  "date"       : "2015-02-08 04:47:06 +0000",
+		  "shortdate"  : "February 08, 2015"
+		} ,
+	
+		{
+		  "title"      : "Python in Nature News",
+		  "category"   : "",
+      "tags"       : "",
+		  "url"        : "http://germslab.org/articles/python-in-nature-news/",
+		  "date"       : "2015-02-05 17:25:34 +0000",
+		  "shortdate"  : "February 05, 2015"
+		} ,
+	
+		{
+		  "title"      : "GERMS Defined",
+		  "category"   : "",
+      "tags"       : "",
+		  "url"        : "http://germslab.org/blog/germs-defined/",
+		  "date"       : "2015-01-26 00:19:43 +0000",
+		  "shortdate"  : "January 26, 2015"
+		} ,
+	
+		{
 		  "title"      : "Faster Metagenomic Assembly?",
 		  "category"   : "",
       "tags"       : "adina howe, metagenomic, and assembly",
 		  "url"        : "http://germslab.org/articles/faster-metagenomic-assembly/",
-		  "date"       : "2014-10-09 15:23:49 -0500",
+		  "date"       : "2014-10-09 21:23:49 +0100",
 		  "shortdate"  : "October 09, 2014"
 		} ,
 	
@@ -14,7 +158,7 @@
 		  "category"   : "",
       "tags"       : "",
 		  "url"        : "http://germslab.org/blog/boarding-pass-to-mars/",
-		  "date"       : "2014-10-09 09:29:33 -0500",
+		  "date"       : "2014-10-09 15:29:33 +0100",
 		  "shortdate"  : "October 09, 2014"
 		} ,
 	
@@ -23,7 +167,7 @@
 		  "category"   : "",
       "tags"       : "adina howe and future",
 		  "url"        : "http://germslab.org/blog/plans-for-the-lab/",
-		  "date"       : "2014-09-29 09:36:53 -0500",
+		  "date"       : "2014-09-29 15:36:53 +0100",
 		  "shortdate"  : "September 29, 2014"
 		} ,
 	
@@ -32,7 +176,7 @@
 		  "category"   : "",
       "tags"       : "adina howe and blog",
 		  "url"        : "http://germslab.org/blog/germs-first-blogpost/",
-		  "date"       : "2014-09-02 16:58:01 -0500",
+		  "date"       : "2014-09-02 22:58:01 +0100",
 		  "shortdate"  : "September 02, 2014"
 		} ,
 	
@@ -41,7 +185,7 @@
 		  "category"   : "",
       "tags"       : "adina howe, students, and mentorship",
 		  "url"        : "http://germslab.org/_posts/articles/top-10-reasons-to-join-germs/",
-		  "date"       : "2014-09-02 14:31:22 -0500",
+		  "date"       : "2014-09-02 20:31:22 +0100",
 		  "shortdate"  : "September 02, 2014"
 		} ,
 	
@@ -50,7 +194,7 @@
 		  "category"   : "",
       "tags"       : "",
 		  "url"        : "http://germslab.org/welcome/",
-		  "date"       : "2014-09-02 09:27:28 -0500",
+		  "date"       : "2014-09-02 15:27:28 +0100",
 		  "shortdate"  : "September 02, 2014"
 		} 
 	

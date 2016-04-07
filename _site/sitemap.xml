@@ -1,113 +1,179 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  
+  <url>
+    <loc>http://germslab.org/blog/germs-is-one/</loc>
+    <lastmod>2016-03-14T18:02:55+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://germslab.org/blog/ryan/</loc>
+    <lastmod>2016-01-21T21:03:25+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://germslab.org/blog/npb/</loc>
+    <lastmod>2016-01-21T20:58:19+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://germslab.org/blog/darte/</loc>
+    <lastmod>2016-01-21T20:54:47+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://germslab.org/blog/phil-colgan-receives-isu-award/</loc>
+    <lastmod>2015-09-03T22:59:09+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://germslab.org/blog/fan-and-adina-teach-data-carpentry/</loc>
+    <lastmod>2015-08-30T23:02:11+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://germslab.org/blog/ryan-and-adina-teach-at-ngs-2015/</loc>
+    <lastmod>2015-08-30T22:56:02+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://germslab.org/blog/website-updated/</loc>
+    <lastmod>2015-06-23T19:56:46+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://germslab.org/blog/germs-infection-tomas-vetrovsky-czech-academy-of-sciences/</loc>
+    <lastmod>2015-04-11T17:18:08+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://germslab.org/articles/in-the-isu-news/</loc>
+    <lastmod>2015-02-19T14:24:43+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://germslab.org/blog/got-algae/</loc>
+    <lastmod>2015-02-14T03:31:47+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://germslab.org/articles/germs-research-presentation-to-envsci690/</loc>
+    <lastmod>2015-02-09T19:49:23+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://germslab.org/articles/phd-student-wanted-impact-carbon-cyling-in-soil/</loc>
+    <lastmod>2015-02-08T04:52:47+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://germslab.org/articles/phd-student-microbial-measurements-of-water-quality/</loc>
+    <lastmod>2015-02-08T04:47:06+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://germslab.org/articles/python-in-nature-news/</loc>
+    <lastmod>2015-02-05T17:25:34+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://germslab.org/blog/germs-defined/</loc>
+    <lastmod>2015-01-26T00:19:43+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
   <url>
     <loc>http://germslab.org/articles/faster-metagenomic-assembly/</loc>
-    <lastmod>2014-10-09T15:23:49-05:00</lastmod>
+    <lastmod>2014-10-09T21:23:49+01:00</lastmod>
     <priority>0.8</priority>
   </url>
-  
   <url>
     <loc>http://germslab.org/blog/boarding-pass-to-mars/</loc>
-    <lastmod>2014-10-09T09:29:33-05:00</lastmod>
+    <lastmod>2014-10-09T15:29:33+01:00</lastmod>
     <priority>0.8</priority>
   </url>
-  
   <url>
     <loc>http://germslab.org/blog/plans-for-the-lab/</loc>
-    <lastmod>2014-09-29T09:36:53-05:00</lastmod>
+    <lastmod>2014-09-29T15:36:53+01:00</lastmod>
     <priority>0.8</priority>
   </url>
-  
   <url>
     <loc>http://germslab.org/blog/germs-first-blogpost/</loc>
-    <lastmod>2014-09-02T16:58:01-05:00</lastmod>
+    <lastmod>2014-09-02T22:58:01+01:00</lastmod>
     <priority>0.8</priority>
   </url>
-  
   <url>
     <loc>http://germslab.org/_posts/articles/top-10-reasons-to-join-germs/</loc>
-    <lastmod>2014-09-02T14:31:22-05:00</lastmod>
+    <lastmod>2014-09-02T20:31:22+01:00</lastmod>
     <priority>0.8</priority>
   </url>
-  
   <url>
     <loc>http://germslab.org/welcome/</loc>
-    <lastmod>2014-09-02T09:27:28-05:00</lastmod>
+    <lastmod>2014-09-02T15:27:28+01:00</lastmod>
     <priority>0.8</priority>
   </url>
-  
-  
   <url>
     <loc>http://germslab.org/</loc>
-    <lastmod>2014-10-21T09:44:01-05:00</lastmod>
+    <lastmod>2016-04-07T23:22:21+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
-  
-  <url>
-    <loc>http://germslab.org/contact/</loc>
-    <lastmod>2014-10-21T09:44:01-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
-    <loc>http://germslab.org/blog/</loc>
-    <lastmod>2014-10-21T09:44:01-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
-    <loc>http://germslab.org/research/</loc>
-    <lastmod>2014-10-21T09:44:01-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
   <url>
     <loc>http://germslab.org/articles/</loc>
-    <lastmod>2014-10-21T09:44:01-05:00</lastmod>
+    <lastmod>2016-04-07T23:22:21+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
-  
   <url>
-    <loc>http://germslab.org/people/</loc>
-    <lastmod>2014-10-21T09:44:01-05:00</lastmod>
+    <loc>http://germslab.org/blog/</loc>
+    <lastmod>2016-04-07T23:22:21+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
-  
   <url>
-    <loc>http://germslab.org/tags/</loc>
-    <lastmod>2014-10-21T09:44:01-05:00</lastmod>
+    <loc>http://germslab.org/contact/</loc>
+    <lastmod>2016-04-07T23:22:21+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
-  
-  <url>
-    <loc>http://germslab.org/theme-setup/</loc>
-    <lastmod>2014-10-21T09:44:01-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
-    <loc>http://germslab.org/opportunities/</loc>
-    <lastmod>2014-10-21T09:44:01-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
   <url>
     <loc>http://germslab.org/about/</loc>
-    <lastmod>2014-10-21T09:44:01-05:00</lastmod>
+    <lastmod>2016-04-07T23:22:21+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
-  
-  
+  <url>
+    <loc>http://germslab.org/tags/</loc>
+    <lastmod>2016-04-07T23:22:21+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://germslab.org/research/</loc>
+    <lastmod>2016-04-07T23:22:21+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://germslab.org/theme-setup/</loc>
+    <lastmod>2016-04-07T23:22:21+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://germslab.org/opportunities/</loc>
+    <lastmod>2016-04-07T23:22:21+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://germslab.org/people/</loc>
+    <lastmod>2016-04-07T23:22:21+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://germslab.org/photos/</loc>
+    <lastmod>2016-04-07T23:22:21+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>

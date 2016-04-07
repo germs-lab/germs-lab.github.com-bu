@@ -1,18 +1,17 @@
 # Site wide configuration
 
-title: Genomics & Environmental Research in Microbial Systems
+title: Genomics and Environmental Research in Microbial Systems
 locale: en_US
 description: 
-logo: germs.png
+logo: GermsLab-vector.png 
 search: true
-url: http://germs-lab.github.io/
-
+url: http://germslab.org
 
 # Jekyll configuration
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
@@ -34,11 +33,11 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: Adina Howe
   avatar: bio-photo.jpg
-  email: adina@anl.gov
-  disqus-shortname:
-  twitter: #teeniedeenie
+  email: germs.research@gmail.com
+  disqus-shortname: 
+  twitter: teeniedeenie
   facebook: #username
-  github: #adina
+  github: germs-lab
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
@@ -46,7 +45,7 @@ owner:
   tumblr: #username
   google:
     plus: #username
-    analytics:
+    analytics: UA-39200706-2
     verify:
     ad-client:
     ad-slot: 
