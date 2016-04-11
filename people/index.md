@@ -58,7 +58,7 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 
 
 <tr>
-<th class="tg-031e"><img src="phil.gif" alt="description here" /></th>
+<th class="tg-031e"><img src="phil.jpg" alt="description here" /></th>
 <th class="tg-031e">Phil Colgan
 <br>PhD Student, ABE
 <p align="left">Interests: sustainable energy and agriculture, synthetic biology, biosensing, education and training
