@@ -3,6 +3,11 @@ layout: page
 title: GERMS Photo Gallery
 ---
 <figure class="third">
+        <a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/grinnell.jpg"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/grinnell.jpg" alt="image"></a>
+        <figcaption>K12 Grinnell Microbiology Class Panel, 2016. </figcaption>
+</figure>
+
+<figure class="third">
         <a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/rand9.jpg"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/rand9.jpg" alt="image"></a>
         <figcaption>K12 Outreach - Dot and Dash, 2016. </figcaption>
 </figure>
