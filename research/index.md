@@ -9,7 +9,7 @@ image:
 ---
 ## On-going research projects ##
 
-### Improved detection and quantification of antibiotic resistant genes and organisms in the environmental
+### Improved detection and quantification of antibiotic resistant genes and organisms in the environment
 
 ![darte](https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/darte.jpg)
 
