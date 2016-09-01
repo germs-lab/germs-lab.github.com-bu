@@ -24,7 +24,7 @@ var linktext = username + "@" + hostname ;
 document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" + linktext + "</a>");
 </script>
 </th>
- </tr>
+</tr>
 
 <tr>
 <th class="tg-031e"><img src="jin3.jpg" alt="description here" /></th>
@@ -63,7 +63,7 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 <br>PhD Student, ABE
 <p align="left">Interests: sustainable energy and agriculture, synthetic biology, biosensing, education and training
 <br>
-<br>Hobbies: disc golfing, hiking, craft brews, playing musical instruments, wire wrapping</p></th>
+<br>Hobbies: disc golfing, hiking, craft brews, playing musical instruments, wire wrapping</p>
 </th>
 </tr>
 
