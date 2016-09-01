@@ -3,6 +3,20 @@ layout: page
 title: GERMS Photo Gallery
 ---
 <figure class="third">
+        <a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/group1.jpg"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/group1.jpg" alt="image"></a>
+        <a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/group2.jpg"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/group2.jpg" alt="image"></a>
+        <a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/goofy.jpg"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/goofy.jpg" alt="image"></a>
+        <a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/bike1.jpg"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/bike1.jpg" alt="image"></a>
+        <a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/bike2.jpg"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/bike2.jpg" alt="image"></a>
+        <a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/bike3.jpg"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/bike3.jpg" alt="image"></a>
+        <a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/bike4.jpg"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/bike4.jpg" alt="image"></a>
+        <a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/bike5.jpg"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/bike5.jpg" alt="image"></a>
+        <a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/bike6.jpg"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/bike6.jpg" alt="image"></a>
+        <a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/dance1.jpg"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/dance1.jpg" alt="image"></a>
+        <figcaption>ISME Montreal GERMS+, 2016. </figcaption>
+</figure>
+
+<figure class="third">
         <a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/grinnell.jpg"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/grinnell.jpg" alt="image"></a>
         <figcaption>K12 Grinnell Microbiology Class Panel, 2016. </figcaption>
 </figure>
