@@ -96,6 +96,17 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 
 </table>
 
+Collaborative Group Webpages:  
+[Water Quality Research Lab](https://www.abe.iastate.edu/soupir/)
+[The Manure Scoop by Dr. Manure](http://themanurescoop.blogspot.com/)
+
+<p><b>GERMS Undergraduate Research Assistants</b></p>
+
+Katie Felming, Animal Science
+Alyssa Iverson, ABE
+Brady Nahkala, ABE 
+Joy Stone, ABE
+
 <p><b>Past GERMS and Old Friends </b></p>
 
 <table class="tg">
