@@ -101,23 +101,21 @@ Collaborative Group Webpages:
 [The Manure Scoop by Dr. Manure](http://themanurescoop.blogspot.com/)  
 
 <p><b>GERMS Undergraduate Research Assistants</b></p>
-
+<table class="tg">
 <tr>
 <th class="tg-031e"><img src="katie.jpg" alt="description here" /></th>
 <th class="tg-031e">Katie Fleming, Freshman, Animal Science
 </th>
 </tr>
 
-Alyssa Iverson, ABE  
-
-Brady Nahkala, ABE   
+Alyssa Iverson, ABE    
 
 <tr>
 <th class="tg-031e"><img src="brady.jpg" alt="description here" /></th>
 <th class="tg-031e">Brady Nahkala, Sophomore, ABE
 </th>
 </tr>
-
+</table>
 
 Joy Stone, ABE  
 
