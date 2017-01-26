@@ -102,9 +102,25 @@ Collaborative Group Webpages:
 
 <p><b>GERMS Undergraduate Research Assistants</b></p>
 
-Katie Felming, Animal Science  
+<tr>
+<th class="tg-031e"><img src="katie.jpg" alt="description here" /></th>
+<th class="tg-031e">Katie Fleming
+<br>Freshman, Animal Science
+</th>
+</tr>
+
 Alyssa Iverson, ABE  
+
 Brady Nahkala, ABE   
+
+<tr>
+<th class="tg-031e"><img src="brady.jpg" alt="description here" /></th>
+<th class="tg-031e">Brady Nahkala
+<br>Sophomore, ABE
+</th>
+</tr>
+
+
 Joy Stone, ABE  
 
 <p><b>Past GERMS and Old Friends </b></p>
