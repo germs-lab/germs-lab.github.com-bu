@@ -104,8 +104,7 @@ Collaborative Group Webpages:
 
 <tr>
 <th class="tg-031e"><img src="katie.jpg" alt="description here" /></th>
-<th class="tg-031e">Katie Fleming
-<br>Freshman, Animal Science
+<th class="tg-031e">Katie Fleming, Freshman, Animal Science
 </th>
 </tr>
 
@@ -115,8 +114,7 @@ Brady Nahkala, ABE
 
 <tr>
 <th class="tg-031e"><img src="brady.jpg" alt="description here" /></th>
-<th class="tg-031e">Brady Nahkala
-<br>Sophomore, ABE
+<th class="tg-031e">Brady Nahkala, Sophomore, ABE
 </th>
 </tr>
 
