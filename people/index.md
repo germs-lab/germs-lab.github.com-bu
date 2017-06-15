@@ -99,7 +99,6 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 Collaborative Group Webpages:  
 [Water Quality Research Lab](https://www.abe.iastate.edu/soupir/)  
 [The Manure Scoop by Dr. Manure](http://themanurescoop.blogspot.com/)  
-[My Faculty Mentor](https://ramanationblog.wordpress.com/)
 
 <p><b>GERMS Undergraduate Research Assistants</b></p>
 <table class="tg">
