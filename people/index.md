@@ -117,8 +117,6 @@ Alyssa Iverson, ABE
 </tr>
 </table>
 
-Joy Stone, ABE  
-
 <p><b>Past GERMS and Old Friends </b></p>
 
 <table class="tg">
