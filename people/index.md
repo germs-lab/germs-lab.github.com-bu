@@ -108,8 +108,6 @@ Collaborative Group Webpages:
 </th>
 </tr>
 
-Alyssa Iverson, ABE    
-
 <tr>
 <th class="tg-031e"><img src="brady.jpg" alt="description here" /></th>
 <th class="tg-031e">Brady Nahkala, Sophomore, ABE
@@ -130,11 +128,10 @@ Alyssa Iverson, ABE
 
 <p><b>GERMS Friends (Past Visiting Scholars)</b></p>
 
-
 <table class="tg">
-  <tr>
+<tr>
     <th class="tg-031e"><img src="tomas.png" alt="description here" /></th>
-    <th class="tg-031e">Tomas Vetrovsky<br>Czech Republic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+     <th class="tg-031e">Tomas Vetrovsky<br>Academy of Sciences Czech Republic</th>
   </tr>
 
 <tr>
