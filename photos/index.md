@@ -3,6 +3,21 @@ layout: page
 title: GERMS Photo Gallery
 ---
 <figure class="third">
+        <a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/group1-1.jpg"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/group1-1.jpg" alt="image"></a>
+        <a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/group2-2.jpg"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/group2-2.jpg" alt="image"></a>   
+        <figcaption>Lab Retreat 2017. </figcaption>
+</figure>
+
+<figure class="third">
+        <a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/mex1.jpg"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/mex1.jpg" alt="image"></a>
+        <a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/mex2.jpg"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/mex2.jpg" alt="image"></a>   
+        <a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/mex3.jpg"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/mex3.jpg" alt="image"></a>
+        <a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/mex4.jpg"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/mex4.jpg" alt="image"></a>        
+        <figcaption>CIBNOR Training Workshops and Shrimp Aquaculture Microbiomes 2017.  La Paz, Mexico. Credit:  Karina Alejandra </figcaption>
+</figure>
+
+
+<figure class="third">
         <a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/group1.jpg"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/group1.jpg" alt="image"></a>
         <a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/group2.jpg"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/group2.jpg" alt="image"></a>
         <a href="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/goofy.jpg"><img src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/goofy.jpg" alt="image"></a>
