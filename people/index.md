@@ -94,6 +94,16 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 </th>
 </tr>
 
+<tr>
+<th class="tg-031e"><img src="schuyler.jpg" alt="description here" /></th>
+<th class="tg-031e">Schuyer Smith
+<br>PhD Student, BCB
+<p align="left">Interests:  genomics; metagenomics; data analysis
+<br>
+<br>Hobbies:  games, reading, being active, not being active, sarcasm</p>
+</th>
+</tr>
+
 </table>
 
 <p><b>GERMS Infections - Current Collaborators</b></p>
