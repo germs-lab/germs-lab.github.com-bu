@@ -96,7 +96,7 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 
 <tr>
 <th class="tg-031e"><img src="schuyler.jpg" alt="description here" /></th>
-<th class="tg-031e">Schuyer Smith
+<th class="tg-031e">Schuyler Smith
 <br>PhD Student, BCB
 <p align="left">Interests:  genomics; metagenomics; data analysis
 <br>
