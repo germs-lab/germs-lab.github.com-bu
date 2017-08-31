@@ -73,7 +73,7 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 <br>PhD Student, BCB
 <p align="left">Interests:  computational biology, genome editing,  and teaching the next generation of scientists. </p>
 <br>
-<br>Hobbies:  Spending time with my wife and kids, hunting, fishing, playing basketball</p>
+<br>Hobbies:  Spending time with my wife and kids, hunting, fishing, playing basketball
 </th>
 </tr>
 
