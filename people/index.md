@@ -71,6 +71,9 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 <th class="tg-031e"><img src="shane.gif" alt="description here" /></th>
 <th class="tg-031e">Shane Dooley
 <br>PhD Student, BCB
+<p align="left">Interests:  computational biology, genome editing,  and teaching the next generation of scientists. </p>
+<br>
+<br>Hobbies:  Spending time with my wife and kids, hunting, fishing, playing basketball</p>
 </th>
 </tr>
 
