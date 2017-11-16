@@ -116,6 +116,10 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
     <th class="tg-031e">DARTE-QM:  <br>Shannon Hinsa (Grinnell); <br>Heather Allen (USDA-ARS); Tom Moorman (USDA-ARS); <br>Michelle Soupir (ISU) <br></th>
   </tr>
 
+  <tr>
+    <th class="tg-031e"><img src="liz_arches2.jpg" alt="description here" /></th>
+    <th class="tg-031e">Liz Luby Rieke (DARTE-QM, PhD candidate)<br></th>
+  </tr>
 </table>
 
 
