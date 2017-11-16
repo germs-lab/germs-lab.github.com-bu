@@ -70,9 +70,9 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 <th class="tg-031e"><img src="shane.gif" alt="description here" /></th>
 <th class="tg-031e">Shane Dooley
 <br>PhD Student, BCB
-<p align="left">Interests:  computational biology, genome editing,  and teaching the next generation of scientists. </p>
+<p align="left">Interests:  computational biology, genome editing,  and teaching the next generation of scientists. 
 <br>
-<br>Hobbies:  Spending time with my wife and kids, hunting, fishing, playing basketball
+<br>Hobbies:  Spending time with my wife and kids, hunting, fishing, playing basketball</p>
 </th>
 </tr>
 
@@ -127,21 +127,6 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 <p><b>Collaborative Group Webpages:</b></p>
 [Water Quality Research Lab](https://www.abe.iastate.edu/soupir/)  
 [The Manure Scoop by Dr. Manure](http://themanurescoop.blogspot.com/)  
-
-<p><b>GERMS Undergraduate Research Assistants</b></p>
-<table class="tg">
-<tr>
-<th class="tg-031e"><img src="katie.jpg" alt="description here" /></th>
-<th class="tg-031e">Katie Fleming, Freshman, Animal Science
-</th>
-</tr>
-
-<tr>
-<th class="tg-031e"><img src="brady.jpg" alt="description here" /></th>
-<th class="tg-031e">Brady Nahkala, Sophomore, ABE
-</th>
-</tr>
-</table>
 
 <p><b>Past GERMS and Old Friends </b></p>
 <table class="tg">
