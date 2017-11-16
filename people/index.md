@@ -124,21 +124,6 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 [Water Quality Research Lab](https://www.abe.iastate.edu/soupir/)  
 [The Manure Scoop by Dr. Manure](http://themanurescoop.blogspot.com/)  
 
-<p><b>GERMS Undergraduate Research Assistants</b></p>
-<table class="tg">
-<tr>
-<th class="tg-031e"><img src="katie.jpg" alt="description here" /></th>
-<th class="tg-031e">Katie Fleming, Freshman, Animal Science
-</th>
-</tr>
-
-<tr>
-<th class="tg-031e"><img src="brady.jpg" alt="description here" /></th>
-<th class="tg-031e">Brady Nahkala, Sophomore, ABE
-</th>
-</tr>
-</table>
-
 <p><b>Past GERMS and Old Friends </b></p>
 <table class="tg">
 <tr>
