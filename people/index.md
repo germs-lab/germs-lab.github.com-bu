@@ -28,7 +28,7 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 
 <tr>
 <th class="tg-031e"><img src="jin3.jpg" alt="description here" /></th>
-<th class="tg-031e"><a href="http://metajinomics.github.io/">Jinlyung Choi</a>, PhD<br>Postdoc
+<th class="tg-031e"><a href="http://metajinomics.github.io/">Jinlyung (Jin) Choi</a>, PhD<br>Postdoc
 <p align="left">Interests: functional metagenomics, metatranscriptomics; computational biology; reproducible research; data science and training
 <br>
 <br>Hobbies: web design, sounds engineering, biking, hiking</p>
@@ -36,23 +36,22 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 </tr>
 
 <tr>
+<th class="tg-031e"><img src="jae.jpg" alt="description here" /></th>
+<th class="tg-031e"><a href="http://metajinomics.github.io/">Jaejin (Jay) Lee</a>, PhD<br>Postdoc
+<p align="left">Interests: environmental & biological big data analysis
+<br>
+<br>Hobbies: playing cello, watching baseball</p>
+</th>
+</tr>
+
+<tr>
 <th class="tg-031e"><img src="nicole.gif" alt="description here" /></th>
-<th class="tg-031e">Nicole Ricker, PhD</a>
+<th class="tg-031e">Nicole Ricker, PhD
 <br>Postdoc
 <p align="left">Interests:  mobile genetic elements; environmental science
 <br>
 <br>Hobbies:  music (guitar, cello), cycling, tennis, badminton, watching hockey and enjoying Belgian beer/chocolate
 </p>
-</th>
-</tr>
-
-<tr>
-<th class="tg-031e"><img src="fan-1.jpg" alt="description here" /></th>
-<th class="tg-031e"><a href="http://fandemonium.github.io/">Fan Yang</a>, PhD
-<br>Postdoc
-<p align="left">Interests:  how microorganisms contribute to our daily lives in natural and engineered systems
-<br>
-<br>Hobbies:  nature and outdoor sports, photography, playing guitar, and eating good food (om nom nom)</p>
 </th>
 </tr>
 
@@ -141,11 +140,18 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 </table>
 
 <p><b>Past GERMS and Old Friends </b></p>
-
 <table class="tg">
+<tr>
+<th class="tg-031e"><img src="fan-1.jpg" alt="description here" /></th>
+<th class="tg-031e"><a href="http://fandemonium.github.io/">Fan Yang</a>, PhD
+<br>Monsanto, San Diego, CA
+</th>
+</tr>
+
+
   <tr>
     <th class="tg-031e"><img src="ryan.jpg" alt="description here" /></th>
-    <th class="tg-031e"><a href="http://ryanjw.github.io/">Ryan J. Williams</a>, PhD<br>Monsanto, San Diego, CA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <th class="tg-031e"><a href="http://ryanjw.github.io/">Ryan J. Williams</a>, PhD<br>Monsanto, St. Louis, MO &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </th>
   </tr>
