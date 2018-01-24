@@ -18,6 +18,12 @@ The global spread of antimicrobial-resistant (AMR) organisms and spread of AMR-a
 This effort is a fantastic collaboration with Iowa State University ([Michelle Soupir](http://www.public.iastate.edu/~msoupir/)), the USDA ([Heather Allen](http://www.ars.usda.gov/pandp/people/people.htm?personid=44876) and [Tom Moorman](http://www.ars.usda.gov/pandp/people/people.htm?personid=3940)), and Grinnell College ([Shannon Hinsa](https://www.grinnell.edu/users/hinsa)).
 
 
+### Understanding environmental health and productivity:  How can we use microbial indicators to assess ecosystem services and disturbances? ###
+
+![safewater](https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/Kauai_Sign_Small.jpg)
+
+We use a systems approach to identify genetic and environmental factors controlling the occurrence of harmful algal blooms (HABs) in Iowa's recreational lakes. We hypothesize that HAB ecology and cyanotoxin production are the predictable result of environmental factors, that the underlying genetic markers for cyanotoxin production are taxonomically controlled, and that incipient cyanotoxin-degrading microbes are present during HABs. The proposed research aims to test these hypotheses through development of monitoring and predictive tools to target future cyanotoxin monitoring and mitigation to the highest-risk recreational waters.  The following objectives will be accomplished: conduct an integrated meta-analysis of physicochemical parameters and microbiome analyses of Iowa's HAB-impacted recreational waters to develop a predictive model of HAB occurrence; develop scalable tools that can be used to rapidly monitor HABs and identify when additional cyanotoxin monitoring is necessary; identify emerging cyanotoxins within Iowa's lakes and determine the freshwater HAB species linked to these toxins and the genetic systems that control toxin production; and identify and evaluate novel toxin-degraders for the mitigation of HAB cyanotoxins.
+
 ### Understanding microbial drivers of ecosystem stability:  What are the drivers of pit foaming? ###
 
 ![piggies](https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/pig_npr.JPG)
@@ -31,11 +37,6 @@ We are collaborating with other investigators at Iowa State University (as well 
 Soils represent the most challenging ecosystem for microbial studies because of its extraordinary high diversity and structural complexity.  Similar to their role in our gut systems, microbial communities drive carbon cycling in the soil. To enable the usage of omic-based approaches and overcome the complexity of the soil, our research leverages “experimentally partitioned” soils comprised of sieved soil aggregates of varying sizes. The experimental separation of the physical soil structure into its constituent aggregates both reduces the complexity of the soil system and provides a scale that is consistent with microbiology and tractable to target microbial processes.
 
 
-### Understanding environmental health and productivity:  How can we use microbial indicators to assess ecosystem services and disturbances? ###
-
-![safewater](https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/Kauai_Sign_Small.jpg)
-
-Water quality is characterized by a suite of chemical and physical measurements, as well as the usage of bioindicators, mainly the presence of microorganisms harmful to human health.  Though informative to the quality of the water, these measurements are limited in their ability to resolve and predict sources of water quality pollution.  For example, counts of colony-forming units can provide answers to how safe water is to drink or swim but do not provide identify the source of contamination. By unifying data collections of existing state-wide monitoring efforts (e.g., Iowa DNR Lake Monitoring & ISU Limnology Laboratory) and microbial community analyses, we hope to identify microbial drivers of various water functions and ecosystem health (e.g., nutrient cycling, pathogens, non-point sources of pollution).
 
 
 ## More Information ##
