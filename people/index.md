@@ -125,7 +125,7 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
   </tr>
 
   <tr>
-    <th class="tg-031e"><img src="liz_arches2.jpg" alt="description here" /></th>
+    <th class="tg-031e"><img src="cool_tim.jpg" alt="description here" /></th>
     <th class="tg-031e">Tim Neher (MS student)<br></th>
   </tr>
 </table>
