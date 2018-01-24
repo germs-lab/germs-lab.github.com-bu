@@ -110,23 +110,43 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 
 <p><b>GERMS Infections - Current Collaborators</b></p>
 
+<p><u>Antimicrobial Resistance in the Environment</u></p>
+*USDA DARTE-QM, USDA Prairie Strips for Mitigation, USDA Foundations of AMR Mobility, National Pork Board, University of Iowa CHEEC, University of Iowa CGRER, Iowa State University VPR
+
 <table class="tg">
   <tr>
     <th class="tg-031e"><img src="darte.jpg" alt="description here" /></th>
-    <th class="tg-031e">DARTE-QM:  <br>Shannon Hinsa (Grinnell); <br>Heather Allen (USDA-ARS); Tom Moorman (USDA-ARS); <br>Michelle Soupir (ISU) <br></th>
+    <th class="tg-031e">Antimicrobial Resistance:  <br>Shannon Hinsa (Grinnell); <br>Heather Allen (USDA-ARS); Tom Moorman (USDA-ARS); <br>Michelle Soupir (ISU) <br></th>
   </tr>
 
   <tr>
     <th class="tg-031e"><img src="liz_arches2.jpg" alt="description here" /></th>
-    <th class="tg-031e">Liz Luby Rieke (DARTE-QM, PhD candidate)<br></th>
+    <th class="tg-031e">Liz Luby Rieke (PhD candidate)<br></th>
   </tr>
 </table>
 
 
+  <tr>
+    <th class="tg-031e"><img src="liz_arches2.jpg" alt="description here" /></th>
+    <th class="tg-031e">Tim Neher (MS student)<br></th>
+  </tr>
+</table>
+
+Photos to Come:  Diana Aga, Matt Helmers, Lisa Schulte Moore
+
+p><u>Harmful Algal Blooms in Recreational Waters</u></p>
+*EPA STAR
+
+Photos to Come:  Kaoru Ikuma & Elizabeth Swanner
 
 <p><b>Collaborative Group Webpages:</b></p>
 [Water Quality Research Lab](https://www.abe.iastate.edu/soupir/)  
 [The Manure Scoop by Dr. Manure](http://themanurescoop.blogspot.com/)  
+[Prairie STRIPS](https://www.nrem.iastate.edu/research/STRIPS/)
+[Aga World Class Chemistry](https://sites.google.com/site/agaresearchlab/)
+
+
+
 
 <p><b>Past GERMS and Old Friends </b></p>
 <table class="tg">
