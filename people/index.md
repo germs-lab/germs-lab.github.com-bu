@@ -123,8 +123,6 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
     <th class="tg-031e"><img src="liz_arches2.jpg" alt="description here" /></th>
     <th class="tg-031e">Liz Luby Rieke (PhD candidate)<br></th>
   </tr>
-</table>
-
 
   <tr>
     <th class="tg-031e"><img src="liz_arches2.jpg" alt="description here" /></th>
@@ -134,7 +132,7 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 
 Photos to Come:  Diana Aga, Matt Helmers, Lisa Schulte Moore
 
-p><u>Harmful Algal Blooms in Recreational Waters</u></p>
+<p><u>Harmful Algal Blooms in Recreational Waters</u></p>
 *EPA STAR
 
 Photos to Come:  Kaoru Ikuma & Elizabeth Swanner
