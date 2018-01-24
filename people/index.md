@@ -111,7 +111,7 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 <p><b>GERMS Infections - Current Collaborators</b></p>
 
 <p><u>Antimicrobial Resistance in the Environment</u></p>
-<font size="1">USDA DARTE-QM, USDA Prairie Strips for Mitigation, USDA Foundations of AMR Mobility, National Pork Board, University of Iowa CHEEC, University of Iowa CGRER, Iowa State University VPR</font>
+<font size="1">Supported by: USDA DARTE-QM, USDA Prairie Strips for Mitigation, USDA Foundations of AMR Mobility, National Pork Board, University of Iowa CHEEC, University of Iowa CGRER, Iowa State University VPR</font>
 
 <table class="tg">
   <tr>
@@ -133,7 +133,7 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 Photos to Come:  Diana Aga, Matt Helmers, Lisa Schulte Moore
 
 <p><u>Harmful Algal Blooms in Recreational Waters</u></p>
-<font size="1">EPA STAR</font>
+<font size="1">Supported by:  EPA STAR, Iowa DNR</font>
 
 
 
@@ -142,7 +142,7 @@ Photos to Come:  Kaoru Ikuma & Elizabeth Swanner
 <p><b>Collaborative Group Webpages:</b></p>
 [Water Quality Research Lab](https://www.abe.iastate.edu/soupir/)  
 [The Manure Scoop by Dr. Manure](http://themanurescoop.blogspot.com/)  
-[Prairie STRIPS](https://www.nrem.iastate.edu/research/STRIPS/)
+[Prairie STRIPS](https://www.nrem.iastate.edu/research/STRIPS/)  
 [Aga World Class Chemistry](https://sites.google.com/site/agaresearchlab/)
 
 
