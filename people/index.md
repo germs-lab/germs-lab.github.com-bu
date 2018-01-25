@@ -143,7 +143,7 @@ Photos to Come:  Kaoru Ikuma & Elizabeth Swanner
 [Water Quality Research Lab](https://www.abe.iastate.edu/soupir/)  
 [The Manure Scoop by Dr. Manure](http://themanurescoop.blogspot.com/)  
 [Prairie STRIPS](https://www.nrem.iastate.edu/research/STRIPS/)  
-[Aga Lab](https://sites.google.com/site/agaresearchlab/)
+[Aga Lab](https://sites.google.com/site/agaresearchlab/)   
 [Fukami Lab](http://web.stanford.edu/~fukamit/)
 
 
