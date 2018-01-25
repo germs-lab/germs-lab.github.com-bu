@@ -142,8 +142,8 @@ Tadashi Fukami (Stanford University)
 
 <p><u>Harmful Algal Blooms in Recreational Waters (EPA, IDNR) </u></p>
 
-Kaoru Ikuma (ISU)
-Elizabeth Swanner (ISU)
+Kaoru Ikuma (ISU)  
+Elizabeth Swanner (ISU)  
 
 <p><b>Collaborative Group Webpages:</b></p>
 [Water Quality Research Lab](https://www.abe.iastate.edu/soupir/)  
