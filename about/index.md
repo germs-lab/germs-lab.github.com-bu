@@ -19,4 +19,4 @@ The GERMS lab believes in the significance of research with impact, the immense 
 
 We are a part of [Iowa State University](http://www.iastate.edu) and the [Agricultural and Biosystems Engineering Department](http://www.abe.iastate.edu).  We are also affiliated with ISU [Environmental Science](http://www.enscigrad.iastate.edu), [Interdepartmental Microbiology Program](http://www.micrograd.iastate.edu/), and [Bioinformatics and Computational Biology](http://www.bcb.iastate.edu).
 
-We are currently supported by the U.S. DOE Office of Biological and Environmental Research (BER); Black and Veatch Building a World of Difference Faculty Fellowship; the National Pork Board; the National Science Foundation Division of Environmental Biology; and the USDA National Institute of Food and Agriculture.
+We are currently supported by the U.S. DOE; the U.S. EPA; the National Pork Board; the National Science Foundation Division of Environmental Biology; and the USDA National Institute of Food and Agriculture.
