@@ -130,7 +130,15 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
   </tr>
 </table>
 
-Photos to Come:  Diana Aga, Matt Helmers, Lisa Schulte Moore, Tadashi Fukami
+Photos to Come:  Diana Aga, Matt Helmers, Lisa Schulte Moore
+
+
+<p><u>Dimensions of Biodiversity:  Nectar Microbiomes </u></p>
+<font size="1">Supported by: NSF</font> 
+
+In collaboration with Tadashi Fukami (Standford Uiversity)
+
+![fukami](https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/fukami.jpg)
 
 <p><u>Harmful Algal Blooms in Recreational Waters</u></p>
 <font size="1">Supported by:  EPA STAR, Iowa DNR</font>
