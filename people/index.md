@@ -130,7 +130,7 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
   </tr>
 </table>
 
-Photos to Come:  Diana Aga, Matt Helmers, Lisa Schulte Moore
+Photos to Come:  Diana Aga, Matt Helmers, Lisa Schulte Moore, Tadashi Fukami
 
 <p><u>Harmful Algal Blooms in Recreational Waters</u></p>
 <font size="1">Supported by:  EPA STAR, Iowa DNR</font>
@@ -143,9 +143,8 @@ Photos to Come:  Kaoru Ikuma & Elizabeth Swanner
 [Water Quality Research Lab](https://www.abe.iastate.edu/soupir/)  
 [The Manure Scoop by Dr. Manure](http://themanurescoop.blogspot.com/)  
 [Prairie STRIPS](https://www.nrem.iastate.edu/research/STRIPS/)  
-[Aga World Class Chemistry](https://sites.google.com/site/agaresearchlab/)
-
-
+[Aga Lab](https://sites.google.com/site/agaresearchlab/)
+[Fukami Lab](http://web.stanford.edu/~fukamit/)
 
 
 <p><b>Past GERMS and Old Friends </b></p>
