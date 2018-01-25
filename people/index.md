@@ -110,8 +110,7 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 
 <p><b>GERMS Infections - Current Collaborators</b></p>
 
-<p><u>Antimicrobial Resistance in the Environment</u></p>
-<font size="1">Supported by: USDA DARTE-QM, USDA Prairie Strips for Mitigation, USDA Foundations of AMR Mobility, National Pork Board, University of Iowa CHEEC, University of Iowa CGRER, Iowa State University VPR</font>
+<p><u>Antimicrobial Resistance in the Environment (USDA, National Pork Board, University of Iowa, ISU)</u></p>
 
 <table class="tg">
   <tr>
@@ -130,22 +129,21 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
   </tr>
 </table>
 
-Photos to Come:  Diana Aga, Matt Helmers, Lisa Schulte Moore
+Diana Aga   
+Matt Helmers   
+Lisa Schulte Moore   
 
 
-<p><u>Dimensions of Biodiversity:  Nectar Microbiomes </u></p>
-<font size="1">Supported by: NSF</font> 
+<p><u>Dimensions of Biodiversity:  Nectar Microbiomes (NSF) </u></p>
 
-In collaboration with Tadashi Fukami (Standford Uiversity)
+Tadashi Fukami (Standford Uiversity)
 
 <img class="resize" src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/fukami.jpg" alt="fukami lab">
 
-<p><u>Harmful Algal Blooms in Recreational Waters</u></p>
-<font size="1">Supported by:  EPA STAR, Iowa DNR</font>
+<p><u>Harmful Algal Blooms in Recreational Waters (EPA, IDNR) </u></p>
 
-
-
-Photos to Come:  Kaoru Ikuma & Elizabeth Swanner
+Kaoru Ikuma   
+Elizabeth Swanner
 
 <p><b>Collaborative Group Webpages:</b></p>
 [Water Quality Research Lab](https://www.abe.iastate.edu/soupir/)  
