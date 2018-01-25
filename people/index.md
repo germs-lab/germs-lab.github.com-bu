@@ -129,9 +129,9 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
   </tr>
 </table>
 
-Diana Aga (University of Buffalo)  
-Matt Helmers (ISU)
-Lisa Schulte Moore (ISU)   
+Diana Aga (University of Buffalo)   
+Matt Helmers (ISU)  
+Lisa Schulte Moore (ISU)     
 
 
 <p><u>Dimensions of Biodiversity:  Nectar Microbiomes (NSF) </u></p>
