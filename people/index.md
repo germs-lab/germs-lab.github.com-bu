@@ -129,21 +129,21 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
   </tr>
 </table>
 
-Diana Aga   
-Matt Helmers   
-Lisa Schulte Moore   
+Diana Aga (University of Buffalo)  
+Matt Helmers (ISU)
+Lisa Schulte Moore (ISU)   
 
 
 <p><u>Dimensions of Biodiversity:  Nectar Microbiomes (NSF) </u></p>
 
-Tadashi Fukami (Standford Uiversity)
+Tadashi Fukami (Stanford University)
 
 <img class="resize" src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/fukami.jpg" alt="fukami lab">
 
 <p><u>Harmful Algal Blooms in Recreational Waters (EPA, IDNR) </u></p>
 
-Kaoru Ikuma   
-Elizabeth Swanner
+Kaoru Ikuma (ISU)
+Elizabeth Swanner (ISU)
 
 <p><b>Collaborative Group Webpages:</b></p>
 [Water Quality Research Lab](https://www.abe.iastate.edu/soupir/)  
