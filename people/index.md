@@ -138,7 +138,7 @@ Photos to Come:  Diana Aga, Matt Helmers, Lisa Schulte Moore
 
 In collaboration with Tadashi Fukami (Standford Uiversity)
 
-<img class="resize" src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/fukami.jpg")
+<img class="resize" src="https://raw.githubusercontent.com/germs-lab/germs-lab.github.com/master/images/fukami.jpg" alt="fukami lab">
 
 <p><u>Harmful Algal Blooms in Recreational Waters</u></p>
 <font size="1">Supported by:  EPA STAR, Iowa DNR</font>
