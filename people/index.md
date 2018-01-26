@@ -129,7 +129,7 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
   </tr>
 </table>
 
-Diana Aga (University of Buffalo)   
+[Diana Aga (University of Buffalo)](https://sites.google.com/site/agaresearchlab/)  
 Matt Helmers (ISU)  
 Lisa Schulte Moore (ISU)     
 
