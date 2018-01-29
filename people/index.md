@@ -37,7 +37,7 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 
 <tr>
 <th class="tg-031e"><img src="jae2.jpg" alt="description here" /></th>
-<th class="tg-031e"><a href="http://metajinomics.github.io/">Jaejin (Jay) Lee</a>, PhD<br>Postdoc
+<th class="tg-031e"><a href="http://metajinomics.github.io/">Jaejin (Jae) Lee</a>, PhD<br>Postdoc
 <p align="left">Interests: environmental & biological big data analysis
 <br>
 <br>Hobbies: playing cello, watching baseball</p>
