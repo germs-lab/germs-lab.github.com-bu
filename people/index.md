@@ -45,6 +45,16 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 </tr>
 
 <tr>
+<th class="tg-031e"><img src="Lanying.png" alt="description here" /></th>
+<th class="tg-031e">Lanying Ma, PhD
+<br>Postdoc
+<p align="left">Interests: microbiology, education, and training
+<br>
+<br>Hobbies: hiking, reading, playing with her kids</p>
+</th>
+</tr>
+
+<tr>
 <th class="tg-031e"><img src="nicole.gif" alt="description here" /></th>
 <th class="tg-031e">Nicole Ricker, PhD
 <br>Postdoc
