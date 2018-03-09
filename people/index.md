@@ -111,6 +111,7 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 <th class="tg-031e">Weiquan (Chen) Luo 
 <br>MS Student, ABE  
 <p align="left">Interests: environmental & biological big data analysis
+<br>
 <br>Hobbies: Symphony, fishing, traveling</p>
 </th>
 </tr>
