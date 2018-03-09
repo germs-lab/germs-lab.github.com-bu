@@ -169,10 +169,13 @@ Elizabeth Swanner (ISU)
 [The Manure Scoop by Dr. Manure](http://themanurescoop.blogspot.com/)  
 [Prairie STRIPS](https://www.nrem.iastate.edu/research/STRIPS/)  
 [Aga Lab](https://sites.google.com/site/agaresearchlab/)   
-[Fukami Lab](http://web.stanford.edu/~fukamit/)
+[Fukami Lab](http://web.stanford.edu/~fukamit/)  
+[Kaleita Lab](https://www.abe.iastate.edu/amy-kaleita/)
+
 
 
 <p><b>Past GERMS and Old Friends </b></p>
+
 <table class="tg">
 <tr>
 <th class="tg-031e"><img src="fan-1.jpg" alt="description here" /></th>
