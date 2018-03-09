@@ -108,8 +108,9 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 
 <tr>
 <th class="tg-031e"><img src="chen.jpg" alt="description here" /></th>
-<th class="tg-031e">Weiquan (Chen) Luo </a> <br><p align="left">Interests: environmental & biological big data analysis
-<br>MS Student, ABE
+<th class="tg-031e">Weiquan (Chen) Luo 
+<br>MS Student, ABE  
+<p align="left">Interests: environmental & biological big data analysis
 <br>Hobbies: Symphony, fishing, traveling</p>
 </th>
 </tr>
