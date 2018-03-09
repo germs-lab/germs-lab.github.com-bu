@@ -107,6 +107,15 @@ document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" +
 </tr>
 
 <tr>
+<th class="tg-031e"><img src="chen.jpg" alt="description here" /></th>
+<th class="tg-031e">Weiquan (Chen) Luo </a> <br><p align="left">Interests: environmental & biological big data analysis
+<br>MS Student, ABE
+<br>Hobbies: Symphony, fishing, traveling</p>
+</th>
+</tr>
+
+
+<tr>
 <th class="tg-031e"><img src="schuyler.jpg" alt="description here" /></th>
 <th class="tg-031e">Schuyler Smith
 <br>PhD Student, BCB
@@ -172,14 +181,9 @@ Elizabeth Swanner (ISU)
 </th>
 </tr>
 
-
-  <tr>
-    <th class="tg-031e"><img src="ryan.jpg" alt="description here" /></th>
-    <th class="tg-031e"><a href="http://ryanjw.github.io/">Ryan J. Williams</a>, PhD<br>Monsanto, St. Louis, MO &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-</th>
-  </tr>
 </table>
+
+Ryan Williams, PhD (Monsanto, St. Louis, MO)
 
 <p><b>GERMS Friends (Past Visiting Scholars)</b></p>
 
